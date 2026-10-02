@@ -1,0 +1,721 @@
+[
+ {
+  "path": "/maijia",
+  "zhOnly": true,
+  "title": "欧盟跨境卖家合规问答",
+  "description": "面向中国跨境卖家的欧盟合规问答与截止日期，每条注明条文和官方来源。",
+  "h1": "欧盟跨境卖家合规问答",
+  "intro": "向欧盟销售产品的中国卖家最常问的问题，以及各项新规从哪天开始适用。每一条都写明条文编号和官方来源链接。",
+  "sections": [
+   {
+    "h": "截止日期",
+    "body": [
+     "GPSR 什么时候开始适用",
+     "欧盟电池法规：每项义务从哪天开始",
+     "碳边境调节机制（CBAM）的时间表",
+     "欧盟包装条例什么时候适用",
+     "可持续产品生态设计条例的时间表",
+     "网络韧性法案对联网产品的时间表",
+     "新产品责任指令对跨境卖家的影响"
+    ]
+   },
+   {
+    "h": "常见问题",
+    "body": [
+     "亚马逊欧洲站因 GPSR 下架怎么办",
+     "欧盟负责人是什么，谁需要",
+     "CE 认证多少钱",
+     "CE 标志可以自己贴吗",
+     "欧盟符合性声明要写什么",
+     "欧盟网店商品页面要写哪些信息",
+     "产品出事故后要向谁报告",
+     "德国包装法：LUCID 注册怎么做",
+     "法国生产者责任：唯一识别码是什么",
+     "卖带电池的产品要注意什么",
+     "怎么查一家公司是否在欧盟制裁名单上"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "EUR-Lex 官方文本",
+    "url": "https://eur-lex.europa.eu"
+   }
+  ],
+  "related": [
+   "/maijia/gpsr-shijian",
+   "/maijia/dianchi-fagui-shijian",
+   "/maijia/cbam-shijian",
+   "/maijia/baozhuang-ppwr-shijian",
+   "/maijia/espr-shijian",
+   "/maijia/cra-shijian",
+   "/maijia/chanpin-zeren-shijian",
+   "/maijia/gpsr-xiajia",
+   "/maijia/oumeng-fuzeren",
+   "/maijia/ce-renzheng-feiyong",
+   "/maijia/ce-ziji-tie",
+   "/maijia/fuhexing-shengming",
+   "/maijia/wangdian-xinxi",
+   "/maijia/anquan-shigu-baogao",
+   "/maijia/deguo-baozhuang-lucid",
+   "/maijia/faguo-epr",
+   "/maijia/dianchi-maijia",
+   "/maijia/zhicai-chaxun"
+  ],
+  "url": "https://zh.exploreworldai.com/zh/maijia",
+  "reviewed": "2026-10-02"
+ },
+ {
+  "title": "GPSR 时间表：2024年12月13日起",
+  "description": "欧盟通用产品安全条例自2024年12月13日起适用，网店与平台卖家同样受约束。",
+  "h1": "GPSR 什么时候开始适用",
+  "intro": "欧盟通用产品安全条例（第 2023/988 号条例）自 2024 年 12 月 13 日起适用，取代原通用产品安全指令。在欧盟线上销售的消费品，从这一天起都要满足新规。",
+  "sections": [
+   {
+    "h": "关键日期",
+    "body": [
+     "2023 年 6 月 12 日：条例生效。",
+     "2024 年 12 月 13 日：条例全面适用（第 52 条）。"
+    ]
+   },
+   {
+    "h": "卖家最常遇到的三条",
+    "body": [
+     "第 16 条：产品必须有欧盟境内的责任经营者。",
+     "第 19 条：远程销售的商品页面要写明制造商、欧盟责任人和产品识别信息。",
+     "第 22 条：在线平台要配合监管机关下架不安全产品。"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "第 2023/988 号条例（EUR-Lex）",
+    "url": "https://eur-lex.europa.eu/eli/reg/2023/988/oj"
+   }
+  ],
+  "related": [
+   "/eu/rattsakter/gpsr-2023-988/artikel-16",
+   "/maijia/gpsr-xiajia",
+   "/maijia/wangdian-xinxi"
+  ],
+  "legislation": {
+   "name": "通用产品安全条例",
+   "identifier": "(EU) 2023/988",
+   "url": "https://eur-lex.europa.eu/eli/reg/2023/988/oj"
+  },
+  "path": "/maijia/gpsr-shijian",
+  "zhOnly": true,
+  "url": "https://zh.exploreworldai.com/zh/maijia/gpsr-shijian",
+  "reviewed": "2026-10-02"
+ },
+ {
+  "title": "欧盟电池法规时间表",
+  "description": "电池法规各项义务的生效日期：标签2026年8月，二维码与电池护照2027年2月。",
+  "h1": "欧盟电池法规：每项义务从哪天开始",
+  "intro": "欧盟电池法规（第 2023/1542 号条例）自 2024 年 2 月 18 日起适用，但各项义务分阶段生效。出口电池或带电池产品的卖家要按日期逐项准备。",
+  "sections": [
+   {
+    "h": "已经生效",
+    "body": [
+     "2024 年 2 月 18 日：条例开始适用。",
+     "2024 年 8 月 18 日：电池须附符合性声明并加贴 CE 标志。",
+     "2025 年 8 月 18 日：生产者须在销售所在成员国完成生产者责任登记。"
+    ]
+   },
+   {
+    "h": "即将生效",
+    "body": [
+     "2026 年 8 月 18 日：电池须带统一标签信息。",
+     "2027 年 2 月 18 日：电池须带二维码；电动汽车电池、轻型交通工具电池和容量超过 2 千瓦时的工业电池须有电池护照；电器中的便携式电池原则上须可由用户拆卸更换。",
+     "供应链尽职调查义务已推迟至 2027 年 8 月 18 日。"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "第 2023/1542 号条例（EUR-Lex）",
+    "url": "https://eur-lex.europa.eu/eli/reg/2023/1542/oj"
+   }
+  ],
+  "related": [
+   "/maijia/dianchi-maijia",
+   "/maijia/gpsr-shijian",
+   "/maijia/cra-shijian"
+  ],
+  "legislation": {
+   "name": "电池法规",
+   "identifier": "(EU) 2023/1542",
+   "url": "https://eur-lex.europa.eu/eli/reg/2023/1542/oj"
+  },
+  "path": "/maijia/dianchi-fagui-shijian",
+  "zhOnly": true,
+  "url": "https://zh.exploreworldai.com/zh/maijia/dianchi-fagui-shijian",
+  "reviewed": "2026-10-02"
+ },
+ {
+  "title": "欧盟碳边境调节机制时间表",
+  "description": "碳边境调节机制2026年1月1日起进入正式期，钢铁、铝等进口商需申报。",
+  "h1": "碳边境调节机制（CBAM）的时间表",
+  "intro": "碳边境调节机制（第 2023/956 号条例）的过渡期为 2023 年 10 月 1 日至 2025 年 12 月 31 日。自 2026 年 1 月 1 日起进入正式期，进口商须为进口货物的隐含排放购买证书。",
+  "sections": [
+   {
+    "h": "涉及的货物",
+    "body": [
+     "钢铁、铝、水泥、化肥、电力和氢，以及部分下游制品。附件一列出具体海关编码。"
+    ]
+   },
+   {
+    "h": "对中国出口商的影响",
+    "body": [
+     "申报义务在欧盟进口商一方，但进口商需要出口商提供实际排放数据，否则按默认值计算，成本通常更高。",
+     "2025 年的简化修订引入了每年 50 吨的豁免门槛，小批量进口商可能不受约束。"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "第 2023/956 号条例（EUR-Lex）",
+    "url": "https://eur-lex.europa.eu/eli/reg/2023/956/oj"
+   }
+  ],
+  "related": [
+   "/maijia/dianchi-fagui-shijian",
+   "/maijia/baozhuang-ppwr-shijian"
+  ],
+  "legislation": {
+   "name": "碳边境调节机制条例",
+   "identifier": "(EU) 2023/956",
+   "url": "https://eur-lex.europa.eu/eli/reg/2023/956/oj"
+  },
+  "path": "/maijia/cbam-shijian",
+  "zhOnly": true,
+  "url": "https://zh.exploreworldai.com/zh/maijia/cbam-shijian",
+  "reviewed": "2026-10-02"
+ },
+ {
+  "title": "欧盟包装条例：2026年8月12日",
+  "description": "欧盟包装与包装废弃物条例自2026年8月12日起适用，取代原包装指令。",
+  "h1": "欧盟包装条例什么时候适用",
+  "intro": "欧盟包装与包装废弃物条例（第 2025/40 号条例）自 2026 年 8 月 12 日起适用。它是条例，在所有成员国直接适用，逐步取代各国按原指令制定的规则。",
+  "sections": [
+   {
+    "h": "卖家要关注的内容",
+    "body": [
+     "包装材料中特定物质的限值。",
+     "统一的分类回收标签，按实施法规分阶段要求。",
+     "生产者责任：在每个销售国登记并承担回收费用，这一点与德国、法国现有制度类似。"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "第 2025/40 号条例（EUR-Lex）",
+    "url": "https://eur-lex.europa.eu/eli/reg/2025/40/oj"
+   }
+  ],
+  "related": [
+   "/maijia/deguo-baozhuang-lucid",
+   "/maijia/faguo-epr"
+  ],
+  "legislation": {
+   "name": "包装与包装废弃物条例",
+   "identifier": "(EU) 2025/40",
+   "url": "https://eur-lex.europa.eu/eli/reg/2025/40/oj"
+  },
+  "path": "/maijia/baozhuang-ppwr-shijian",
+  "zhOnly": true,
+  "url": "https://zh.exploreworldai.com/zh/maijia/baozhuang-ppwr-shijian",
+  "reviewed": "2026-10-02"
+ },
+ {
+  "title": "生态设计条例与数字产品护照",
+  "description": "生态设计条例2024年7月18日生效，大企业销毁未售服装鞋类自2026年7月19日起禁止。",
+  "h1": "可持续产品生态设计条例的时间表",
+  "intro": "可持续产品生态设计条例（第 2024/1781 号条例）于 2024 年 7 月 18 日生效。具体产品的要求和数字产品护照，由委员会按产品类别逐步通过授权法规确定。",
+  "sections": [
+   {
+    "h": "已确定的日期",
+    "body": [
+     "2026 年 7 月 19 日起：大型企业不得销毁未售出的服装和鞋类。",
+     "中型企业的同一禁令自 2030 年 7 月 19 日起适用。"
+    ]
+   },
+   {
+    "h": "数字产品护照",
+    "body": [
+     "护照要求只在某一产品类别的授权法规通过后才适用。卖家应关注本品类的工作计划，而不是一个统一日期。"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "第 2024/1781 号条例（EUR-Lex）",
+    "url": "https://eur-lex.europa.eu/eli/reg/2024/1781/oj"
+   }
+  ],
+  "related": [
+   "/maijia/dianchi-fagui-shijian",
+   "/maijia/baozhuang-ppwr-shijian"
+  ],
+  "legislation": {
+   "name": "可持续产品生态设计条例",
+   "identifier": "(EU) 2024/1781",
+   "url": "https://eur-lex.europa.eu/eli/reg/2024/1781/oj"
+  },
+  "path": "/maijia/espr-shijian",
+  "zhOnly": true,
+  "url": "https://zh.exploreworldai.com/zh/maijia/espr-shijian",
+  "reviewed": "2026-10-02"
+ },
+ {
+  "title": "网络韧性法案：联网产品时间表",
+  "description": "网络韧性法案的报告义务2026年9月11日起适用，全部要求2027年12月11日起适用。",
+  "h1": "网络韧性法案对联网产品的时间表",
+  "intro": "网络韧性法案（第 2024/2847 号条例）适用于带数字元素的产品，例如智能家居、摄像头和联网玩具。主要义务自 2027 年 12 月 11 日起适用。",
+  "sections": [
+   {
+    "h": "关键日期",
+    "body": [
+     "2026 年 9 月 11 日：制造商须报告被积极利用的漏洞和严重安全事件。",
+     "2027 年 12 月 11 日：全部要求适用，产品须满足网络安全要求后才能加贴 CE 标志。"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "第 2024/2847 号条例（EUR-Lex）",
+    "url": "https://eur-lex.europa.eu/eli/reg/2024/2847/oj"
+   }
+  ],
+  "related": [
+   "/novacopilot/fragor/cra-ce-marking",
+   "/maijia/ce-ziji-tie",
+   "/maijia/gpsr-shijian"
+  ],
+  "legislation": {
+   "name": "网络韧性法案",
+   "identifier": "(EU) 2024/2847",
+   "url": "https://eur-lex.europa.eu/eli/reg/2024/2847/oj"
+  },
+  "path": "/maijia/cra-shijian",
+  "zhOnly": true,
+  "url": "https://zh.exploreworldai.com/zh/maijia/cra-shijian",
+  "reviewed": "2026-10-02"
+ },
+ {
+  "title": "新产品责任指令：2026年12月9日",
+  "description": "新产品责任指令须在2026年12月9日前转化，在线平台在特定情况下也要担责。",
+  "h1": "新产品责任指令对跨境卖家的影响",
+  "intro": "新产品责任指令（第 2024/2853 号指令）须由成员国在 2026 年 12 月 9 日前转化为国内法，适用于此后投放市场的产品。缺陷产品造成损害时，受害人可以向欧盟境内的相关经营者索赔。",
+  "sections": [
+   {
+    "h": "对中国卖家的意义",
+    "body": [
+     "制造商在欧盟境外时，进口商或授权代表承担责任；两者都没有时，履行服务提供商可被追责。",
+     "在线平台在以经营者身份出现或无法指明欧盟境内经营者时，也可能承担责任。",
+     "软件被明确列为产品。"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "第 2024/2853 号指令（EUR-Lex）",
+    "url": "https://eur-lex.europa.eu/eli/dir/2024/2853/oj"
+   }
+  ],
+  "related": [
+   "/maijia/oumeng-fuzeren",
+   "/maijia/gpsr-shijian"
+  ],
+  "legislation": {
+   "name": "产品责任指令",
+   "identifier": "(EU) 2024/2853",
+   "url": "https://eur-lex.europa.eu/eli/dir/2024/2853/oj"
+  },
+  "path": "/maijia/chanpin-zeren-shijian",
+  "zhOnly": true,
+  "url": "https://zh.exploreworldai.com/zh/maijia/chanpin-zeren-shijian",
+  "reviewed": "2026-10-02"
+ },
+ {
+  "title": "亚马逊欧洲站因 GPSR 下架怎么办",
+  "description": "商品因 GPSR 被下架，多数是缺少欧盟责任人或制造商信息。按条文逐项补齐即可。",
+  "h1": "亚马逊欧洲站因 GPSR 下架怎么办",
+  "intro": "多数下架是因为商品页面缺少 GPSR 第 19 条要求的信息：制造商名称和联系方式、欧盟境内责任人、产品识别信息和必要的警示。补齐信息并在平台后台提交后，商品通常可以恢复。",
+  "sections": [
+   {
+    "h": "逐项检查",
+    "body": [
+     "制造商的名称、注册商号和邮寄地址及电子联系方式。",
+     "制造商在欧盟境外时，欧盟境内责任经营者的同样信息（第 16 条）。",
+     "型号、批次或序列号等识别信息，以及产品图片。",
+     "以销售国语言写明的警示和安全信息。"
+    ]
+   },
+   {
+    "h": "平台的角色",
+    "body": [
+     "在线平台须按第 22 条配合监管机关，因此平台会主动下架信息不全的商品，而不是等待处罚。"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "第 2023/988 号条例第 16、19、22 条",
+    "url": "https://eur-lex.europa.eu/eli/reg/2023/988/oj"
+   }
+  ],
+  "related": [
+   "/maijia/oumeng-fuzeren",
+   "/maijia/wangdian-xinxi",
+   "/eu/rattsakter/gpsr-2023-988/artikel-19"
+  ],
+  "path": "/maijia/gpsr-xiajia",
+  "zhOnly": true,
+  "url": "https://zh.exploreworldai.com/zh/maijia/gpsr-xiajia",
+  "reviewed": "2026-10-02"
+ },
+ {
+  "title": "欧盟负责人是什么，谁需要",
+  "description": "制造商在欧盟境外时，产品须有欧盟境内的责任经营者，负责配合监管机关。",
+  "h1": "欧盟负责人是什么，谁需要",
+  "intro": "欧盟负责人是在欧盟境内设立、对产品合规向监管机关负责的经营者。制造商不在欧盟时，产品只有在欧盟境内有这样一个经营者，才能投放欧盟市场。",
+  "sections": [
+   {
+    "h": "谁可以担任",
+    "body": [
+     "欧盟境内的制造商、进口商、授权代表，或在没有前三者时的履行服务提供商（市场监督条例第 4 条，通用产品安全条例第 16 条）。"
+    ]
+   },
+   {
+    "h": "负责人要做什么",
+    "body": [
+     "保存并按要求提供符合性声明和技术文件。",
+     "配合监管机关处理风险产品。",
+     "其名称和联系方式须出现在产品、包装或随附文件上。"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "第 2019/1020 号条例第 4 条",
+    "url": "https://eur-lex.europa.eu/eli/reg/2019/1020/oj"
+   },
+   {
+    "name": "第 2023/988 号条例第 16 条",
+    "url": "https://eur-lex.europa.eu/eli/reg/2023/988/oj"
+   }
+  ],
+  "related": [
+   "/maijia/gpsr-xiajia",
+   "/eu/rattsakter/gpsr-2023-988/artikel-16",
+   "/maijia/chanpin-zeren-shijian"
+  ],
+  "path": "/maijia/oumeng-fuzeren",
+  "zhOnly": true,
+  "url": "https://zh.exploreworldai.com/zh/maijia/oumeng-fuzeren",
+  "reviewed": "2026-10-02"
+ },
+ {
+  "title": "CE 认证多少钱",
+  "description": "欧盟没有官方的 CE 认证价格。费用取决于是否需要公告机构和测试项目。",
+  "h1": "CE 认证多少钱",
+  "intro": "欧盟没有统一的 CE 认证价格，法规也不规定费用。很多产品由制造商自行评估并签署符合性声明，费用主要是检测；只有法规要求公告机构参与的产品，才需要支付第三方认证费用。",
+  "sections": [
+   {
+    "h": "费用由什么决定",
+    "body": [
+     "适用哪几部法规，例如玩具、电器、无线电设备。",
+     "评估模式：模式 A 为制造商自我声明，其他模式需要公告机构。",
+     "需要做哪些检测，以及是否已有符合协调标准的检测报告。"
+    ]
+   },
+   {
+    "h": "注意",
+    "body": [
+     "所谓“CE 证书”并不是欧盟颁发的文件。真正的法律文件是制造商签署的欧盟符合性声明。"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "第 768/2008/EC 号决定（评估模式）",
+    "url": "https://eur-lex.europa.eu/eli/dec/2008/768/oj"
+   }
+  ],
+  "related": [
+   "/maijia/ce-ziji-tie",
+   "/maijia/fuhexing-shengming",
+   "/novacopilot/fragor/cra-ce-marking"
+  ],
+  "path": "/maijia/ce-renzheng-feiyong",
+  "zhOnly": true,
+  "url": "https://zh.exploreworldai.com/zh/maijia/ce-renzheng-feiyong",
+  "reviewed": "2026-10-02"
+ },
+ {
+  "title": "CE 标志可以自己贴吗",
+  "description": "多数产品的 CE 标志由制造商在自我评估后加贴，部分产品需要公告机构参与。",
+  "h1": "CE 标志可以自己贴吗",
+  "intro": "可以，但前提是完成了法规要求的合格评定。对多数产品，制造商自行评估、编制技术文件并签署欧盟符合性声明后，即可加贴 CE 标志。加贴即表示制造商对符合性负全部责任。",
+  "sections": [
+   {
+    "h": "什么时候不能只靠自己",
+    "body": [
+     "法规规定须由公告机构参与评定的产品，例如部分医疗器械、个人防护装备和压力设备。此时 CE 标志旁还要加上公告机构编号。"
+    ]
+   },
+   {
+    "h": "常见错误",
+    "body": [
+     "把检测报告当作符合性声明。",
+     "产品不属于任何要求 CE 的法规，却加贴了 CE 标志，这同样违规。"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "第 768/2008/EC 号决定附件二",
+    "url": "https://eur-lex.europa.eu/eli/dec/2008/768/oj"
+   }
+  ],
+  "related": [
+   "/maijia/ce-renzheng-feiyong",
+   "/maijia/fuhexing-shengming",
+   "/maijia/cra-shijian"
+  ],
+  "path": "/maijia/ce-ziji-tie",
+  "zhOnly": true,
+  "url": "https://zh.exploreworldai.com/zh/maijia/ce-ziji-tie",
+  "reviewed": "2026-10-02"
+ },
+ {
+  "title": "欧盟符合性声明要写什么",
+  "description": "欧盟符合性声明的固定内容：产品、制造商、适用法规、标准和签署人。",
+  "h1": "欧盟符合性声明要写什么",
+  "intro": "欧盟符合性声明是制造商签署的法律文件，声明产品符合所有适用的欧盟法规。各产品法规的模板基本相同，来源是第 768/2008/EC 号决定附件三。",
+  "sections": [
+   {
+    "h": "固定内容",
+    "body": [
+     "产品型号、批次或序列号。",
+     "制造商及授权代表（如有）的名称和地址。",
+     "“本声明由制造商全权负责”的表述。",
+     "声明对象及其图片或描述。",
+     "适用的欧盟法规和所采用的协调标准。",
+     "公告机构名称和编号（如有）。",
+     "签署地点、日期、姓名和职务。"
+    ]
+   },
+   {
+    "h": "语言",
+    "body": [
+     "须译成产品销售所在成员国要求的语言。"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "第 768/2008/EC 号决定附件三",
+    "url": "https://eur-lex.europa.eu/eli/dec/2008/768/oj"
+   }
+  ],
+  "related": [
+   "/maijia/ce-ziji-tie",
+   "/maijia/ce-renzheng-feiyong"
+  ],
+  "path": "/maijia/fuhexing-shengming",
+  "zhOnly": true,
+  "url": "https://zh.exploreworldai.com/zh/maijia/fuhexing-shengming",
+  "reviewed": "2026-10-02"
+ },
+ {
+  "title": "欧盟网店商品页面要写哪些信息",
+  "description": "按 GPSR 第19条，远程销售页面须写明制造商、欧盟责任人、识别信息和警示。",
+  "h1": "欧盟网店商品页面要写哪些信息",
+  "intro": "通用产品安全条例第 19 条规定，线上或其他远程方式销售产品时，商品页面须清楚显示以下信息。",
+  "sections": [
+   {
+    "h": "必须显示",
+    "body": [
+     "制造商的名称、注册商号和邮寄地址及电子联系方式。",
+     "制造商在欧盟境外时，欧盟境内责任经营者的名称和联系方式。",
+     "识别产品的信息，包括图片、类型和其他识别信息。",
+     "以消费者容易理解的语言写明的警示或安全信息。"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "第 2023/988 号条例第 19 条",
+    "url": "https://eur-lex.europa.eu/eli/reg/2023/988/oj"
+   }
+  ],
+  "related": [
+   "/maijia/gpsr-xiajia",
+   "/eu/rattsakter/gpsr-2023-988/artikel-19"
+  ],
+  "path": "/maijia/wangdian-xinxi",
+  "zhOnly": true,
+  "url": "https://zh.exploreworldai.com/zh/maijia/wangdian-xinxi",
+  "reviewed": "2026-10-02"
+ },
+ {
+  "title": "产品出事故后要向谁报告",
+  "description": "GPSR 第20条：产品造成事故时，制造商须通过安全商业门户及时通报监管机关。",
+  "h1": "产品出事故后要向谁报告",
+  "intro": "通用产品安全条例第 20 条规定，制造商须通过欧盟委员会的安全商业门户，向产品所在成员国的主管机关通报由其产品引起的事故，并在知悉后立即报告。",
+  "sections": [
+   {
+    "h": "要点",
+    "body": [
+     "报告义务在制造商；进口商和分销商知悉事故时须告知制造商。",
+     "同一门户也用于通报产品存在风险并采取的纠正措施，例如召回。"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "第 2023/988 号条例第 20 条",
+    "url": "https://eur-lex.europa.eu/eli/reg/2023/988/oj"
+   }
+  ],
+  "related": [
+   "/maijia/gpsr-shijian",
+   "/maijia/oumeng-fuzeren"
+  ],
+  "path": "/maijia/anquan-shigu-baogao",
+  "zhOnly": true,
+  "url": "https://zh.exploreworldai.com/zh/maijia/anquan-shigu-baogao",
+  "reviewed": "2026-10-02"
+ },
+ {
+  "title": "德国包装法 LUCID 注册",
+  "description": "向德国消费者销售带包装商品前，须在中央登记处 LUCID 登记并加入回收系统。",
+  "h1": "德国包装法：LUCID 注册怎么做",
+  "intro": "德国包装法要求，首次把带包装的商品投放德国市场的经营者，在销售前须在包装中央登记处的 LUCID 系统登记，并就零售包装加入一个回收系统。跨境网店卖家同样适用。",
+  "sections": [
+   {
+    "h": "步骤",
+    "body": [
+     "在 LUCID 免费登记，取得登记号。",
+     "与回收系统签约并按包装重量申报。",
+     "把登记号提供给销售平台，平台须核实。"
+    ]
+   },
+   {
+    "h": "与欧盟包装条例的关系",
+    "body": [
+     "欧盟包装条例自 2026 年 8 月 12 日起适用，但各国登记制度会继续作为执行渠道。"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "德国包装中央登记处",
+    "url": "https://www.verpackungsregister.org"
+   },
+   {
+    "name": "第 2025/40 号条例（EUR-Lex）",
+    "url": "https://eur-lex.europa.eu/eli/reg/2025/40/oj"
+   }
+  ],
+  "related": [
+   "/maijia/baozhuang-ppwr-shijian",
+   "/maijia/faguo-epr"
+  ],
+  "path": "/maijia/deguo-baozhuang-lucid",
+  "zhOnly": true,
+  "url": "https://zh.exploreworldai.com/zh/maijia/deguo-baozhuang-lucid",
+  "reviewed": "2026-10-02"
+ },
+ {
+  "title": "法国生产者责任唯一识别码",
+  "description": "在法国销售受生产者责任约束的产品，须加入回收组织并取得唯一识别码。",
+  "h1": "法国生产者责任：唯一识别码是什么",
+  "intro": "法国对包装、电子电气设备、家具、纺织品等多个品类实行生产者责任。经营者加入对应品类的回收组织后，由法国生态转型署分配唯一识别码，须在销售条款或网站上显示。",
+  "sections": [
+   {
+    "h": "平台的义务",
+    "body": [
+     "法国法律要求销售平台核实卖家是否履行了生产者责任，否则平台须代为承担。因此平台会要求卖家提交识别码。"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "法国生态转型署",
+    "url": "https://www.ademe.fr"
+   }
+  ],
+  "related": [
+   "/maijia/deguo-baozhuang-lucid",
+   "/maijia/baozhuang-ppwr-shijian"
+  ],
+  "path": "/maijia/faguo-epr",
+  "zhOnly": true,
+  "url": "https://zh.exploreworldai.com/zh/maijia/faguo-epr",
+  "reviewed": "2026-10-02"
+ },
+ {
+  "title": "卖带电池的产品要注意什么",
+  "description": "电池法规对卖家的要求：生产者登记、CE 标志、标签与二维码、回收责任。",
+  "h1": "卖带电池的产品要注意什么",
+  "intro": "电池法规不只管电池本身，也适用于装有电池的电器。把这类产品投放欧盟市场的经营者，是电池法规意义上的生产者，要承担登记和回收责任。",
+  "sections": [
+   {
+    "h": "检查清单",
+    "body": [
+     "在每个销售国完成生产者责任登记（自 2025 年 8 月 18 日起）。",
+     "电池附符合性声明并加贴 CE 标志。",
+     "2026 年 8 月 18 日起的统一标签，2027 年 2 月 18 日起的二维码。",
+     "电器中的便携式电池自 2027 年 2 月 18 日起原则上须可由用户拆卸更换。"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "第 2023/1542 号条例（EUR-Lex）",
+    "url": "https://eur-lex.europa.eu/eli/reg/2023/1542/oj"
+   }
+  ],
+  "related": [
+   "/maijia/dianchi-fagui-shijian",
+   "/maijia/ce-ziji-tie"
+  ],
+  "path": "/maijia/dianchi-maijia",
+  "zhOnly": true,
+  "url": "https://zh.exploreworldai.com/zh/maijia/dianchi-maijia",
+  "reviewed": "2026-10-02"
+ },
+ {
+  "title": "怎么查欧盟制裁名单",
+  "description": "欧盟制裁名单每天读取一次，可按名称、别名和编号查询，并注明官方来源。",
+  "h1": "怎么查一家公司是否在欧盟制裁名单上",
+  "intro": "欧盟金融制裁综合名单列出受资产冻结的个人和实体。我们每天读取一次官方名单，审核后发布，可按名称、别名、编号和制裁项目查询。",
+  "sections": [
+   {
+    "h": "查询时注意",
+    "body": [
+     "名称相似不代表是同一主体，须核对出生日期、注册号等识别信息。",
+     "名单以欧盟官方版本为准。",
+     "除名单外，受制裁主体拥有或控制的公司同样受限。"
+    ]
+   }
+  ],
+  "sources": [
+   {
+    "name": "欧盟金融制裁综合名单",
+    "url": "https://data.europa.eu/data/datasets/consolidated-list-of-persons-groups-and-entities-subject-to-eu-financial-sanctions"
+   }
+  ],
+  "related": [
+   "/sanktioner/eu",
+   "/sanktioner/fn"
+  ],
+  "path": "/maijia/zhicai-chaxun",
+  "zhOnly": true,
+  "url": "https://zh.exploreworldai.com/zh/maijia/zhicai-chaxun",
+  "reviewed": "2026-10-02"
+ }
+]
