@@ -1,0 +1,1082 @@
+[
+ {
+  "slug": "reklamation-hur-lange",
+  "path": "/vardagsjuridik/reklamation-hur-lange",
+  "track": "buy",
+  "source": "kkl",
+  "law": {
+   "en": "Chapter 5, section 2, and chapter 4, section 14",
+   "sv": "5 kap. 2 § och 4 kap. 14 §",
+   "no": "kap. 5 § 2 og kap. 4 § 14"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "How long do I have to complain about a faulty product in Sweden?",
+    "answer": "You must complain within a reasonable time after you noticed the fault, and a complaint within two months is always in time. The seller answers for faults that show up within three years of delivery.",
+    "how": "After the three years you have two more months to make the claim. Tell the seller what is wrong and keep a copy, for example an email. The right to complain applies even when the product has no guarantee.",
+    "object": "Faulty goods bought by a consumer from a business",
+    "title": "How long do I have to complain about a faulty product in…",
+    "description": "You must complain within a reasonable time after you noticed the fault, and a complaint within two months is always in time. The seller answers for…"
+   },
+   "sv": {
+    "question": "Hur lång tid har jag på mig att reklamera en vara?",
+    "answer": "Du ska reklamera inom skälig tid efter att du märkt felet, och en reklamation inom två månader är alltid i tid. Säljaren svarar för fel som visar sig inom tre år från leveransen.",
+    "how": "Efter de tre åren har du två månader på dig att framställa kravet. Berätta för säljaren vad som är fel och spara en kopia, till exempel ett mejl. Reklamationsrätten gäller även när varan saknar garanti.",
+    "object": "Felaktig vara som en konsument köpt av ett företag",
+    "title": "Hur lång tid har jag på mig att reklamera en vara?",
+    "description": "Du ska reklamera inom skälig tid efter att du märkt felet, och en reklamation inom två månader är alltid i tid. Säljaren svarar för fel som visar sig…"
+   },
+   "no": {
+    "question": "Hvor lang tid har jeg på å reklamere på en vare i Sverige?",
+    "answer": "Du må reklamere innen rimelig tid etter at du oppdaget feilen, og en reklamasjon innen to måneder er alltid i tide. Selgeren svarer for feil som viser seg innen tre år etter levering.",
+    "how": "Etter de tre årene har du to måneder til å sette fram kravet. Si fra til selgeren hva som er galt, og ta vare på en kopi, for eksempel en e-post. Reklamasjonsretten gjelder også når varen ikke har garanti.",
+    "object": "Feil ved vare en forbruker har kjøpt av en næringsdrivende i Sverige",
+    "title": "Hvor lang tid har jeg på å reklamere på en vare i Sverige?",
+    "description": "Du må reklamere innen rimelig tid etter at du oppdaget feilen, og en reklamasjon innen to måneder er alltid i tide. Selgeren svarer for feil som viser…"
+   }
+  },
+  "url": "https://exploreworldai.com/vardagsjuridik/reklamation-hur-lange",
+  "source_detail": {
+   "name": {
+    "en": "Swedish Consumer Sales Act (2022:260)",
+    "sv": "Konsumentköplag (2022:260)",
+    "no": "Svensk forbrukerkjøpslov (2022:260)"
+   },
+   "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/konsumentkoplag-2022260_sfs-2022-260/",
+   "authority": {
+    "en": "Swedish Consumer Agency, Hallå konsument",
+    "sv": "Konsumentverket, Hallå konsument",
+    "no": "Konsumentverket i Sverige, Hallå konsument"
+   },
+   "authorityUrl": "https://www.hallakonsument.se/"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "fel-inom-tva-ar",
+  "path": "/vardagsjuridik/fel-inom-tva-ar",
+  "track": "buy",
+  "source": "kkl",
+  "law": {
+   "en": "Chapter 4, section 17",
+   "sv": "4 kap. 17 §",
+   "no": "kap. 4 § 17"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "Who must prove the fault if a product breaks within two years?",
+    "answer": "A fault that shows up within two years of delivery is presumed to have existed when you received the product. The seller must then show that it did not, for example that you damaged it.",
+    "how": "After two years you must show that the fault was there from the start. The presumption does not apply if it cannot fit the nature of the product or the fault.",
+    "object": "Burden of proof for faults in consumer goods",
+    "title": "Who must prove the fault if a product breaks within two…",
+    "description": "A fault that shows up within two years of delivery is presumed to have existed when you received the product. The seller must then show that it did…"
+   },
+   "sv": {
+    "question": "Vem ska bevisa felet om varan går sönder inom två år?",
+    "answer": "Ett fel som visar sig inom två år från leveransen antas ha funnits när du fick varan. Säljaren måste då visa att det inte var så, till exempel att du skadat den.",
+    "how": "Efter två år är det du som ska visa att felet fanns från början. Regeln gäller inte om den är oförenlig med varans eller felets art.",
+    "object": "Bevisbörda för fel i konsumentvaror",
+    "title": "Vem ska bevisa felet om varan går sönder inom två år?",
+    "description": "Ett fel som visar sig inom två år från leveransen antas ha funnits när du fick varan. Säljaren måste då visa att det inte var så, till exempel att du…"
+   },
+   "no": {
+    "question": "Hvem må bevise feilen hvis varen blir ødelagt innen to år?",
+    "answer": "En feil som viser seg innen to år etter levering, antas å ha vært der da du fikk varen. Selgeren må da vise at den ikke var det, for eksempel at du har skadet den.",
+    "how": "Etter to år er det du som må vise at feilen var der fra starten. Regelen gjelder ikke hvis den ikke passer med varens eller feilens art.",
+    "object": "Bevisbyrde for feil ved forbrukervarer i Sverige",
+    "title": "Hvem må bevise feilen hvis varen blir ødelagt innen to år?",
+    "description": "En feil som viser seg innen to år etter levering, antas å ha vært der da du fikk varen. Selgeren må da vise at den ikke var det, for eksempel at du har…"
+   }
+  },
+  "url": "https://exploreworldai.com/vardagsjuridik/fel-inom-tva-ar",
+  "source_detail": {
+   "name": {
+    "en": "Swedish Consumer Sales Act (2022:260)",
+    "sv": "Konsumentköplag (2022:260)",
+    "no": "Svensk forbrukerkjøpslov (2022:260)"
+   },
+   "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/konsumentkoplag-2022260_sfs-2022-260/",
+   "authority": {
+    "en": "Swedish Consumer Agency, Hallå konsument",
+    "sv": "Konsumentverket, Hallå konsument",
+    "no": "Konsumentverket i Sverige, Hallå konsument"
+   },
+   "authorityUrl": "https://www.hallakonsument.se/"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "reparation-eller-pengar-tillbaka",
+  "path": "/vardagsjuridik/reparation-eller-pengar-tillbaka",
+  "track": "buy",
+  "source": "kkl",
+  "law": {
+   "en": "Chapter 5, sections 1, 4, 8 and 10",
+   "sv": "5 kap. 1, 4, 8 och 10 §§",
+   "no": "kap. 5 §§ 1, 4, 8 og 10"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "Can I get my money back for a faulty product?",
+    "answer": "First you may ask for repair or a replacement. If that is not possible, takes too long or fails, you may ask for a price reduction or cancel the purchase and get your money back.",
+    "how": "You may also claim damages for costs the fault caused you. You may not cancel the purchase if the seller shows that the fault is minor.",
+    "object": "Remedies for faulty consumer goods",
+    "title": "Can I get my money back for a faulty product?",
+    "description": "First you may ask for repair or a replacement. If that is not possible, takes too long or fails, you may ask for a price reduction or cancel the…"
+   },
+   "sv": {
+    "question": "Kan jag få pengarna tillbaka för en felaktig vara?",
+    "answer": "Först kan du kräva att varan repareras eller byts. Går det inte, tar det för lång tid eller misslyckas det, kan du kräva prisavdrag eller häva köpet och få pengarna tillbaka.",
+    "how": "Du kan också kräva skadestånd för kostnader som felet orsakat dig. Du får inte häva köpet om säljaren visar att felet är ringa.",
+    "object": "Påföljder vid fel i konsumentvara",
+    "title": "Kan jag få pengarna tillbaka för en felaktig vara?",
+    "description": "Först kan du kräva att varan repareras eller byts. Går det inte, tar det för lång tid eller misslyckas det, kan du kräva prisavdrag eller häva köpet…"
+   },
+   "no": {
+    "question": "Kan jeg få pengene tilbake for en vare med feil?",
+    "answer": "Først kan du kreve at varen repareres eller byttes. Går ikke det, tar det for lang tid eller mislykkes det, kan du kreve prisavslag eller heve kjøpet og få pengene tilbake.",
+    "how": "Du kan også kreve erstatning for kostnader feilen har gitt deg. Du kan ikke heve kjøpet hvis selgeren viser at feilen er liten.",
+    "object": "Krav ved feil ved forbrukervare i Sverige",
+    "title": "Kan jeg få pengene tilbake for en vare med feil?",
+    "description": "Først kan du kreve at varen repareres eller byttes. Går ikke det, tar det for lang tid eller mislykkes det, kan du kreve prisavslag eller heve kjøpet…"
+   }
+  },
+  "url": "https://exploreworldai.com/vardagsjuridik/reparation-eller-pengar-tillbaka",
+  "source_detail": {
+   "name": {
+    "en": "Swedish Consumer Sales Act (2022:260)",
+    "sv": "Konsumentköplag (2022:260)",
+    "no": "Svensk forbrukerkjøpslov (2022:260)"
+   },
+   "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/konsumentkoplag-2022260_sfs-2022-260/",
+   "authority": {
+    "en": "Swedish Consumer Agency, Hallå konsument",
+    "sv": "Konsumentverket, Hallå konsument",
+    "no": "Konsumentverket i Sverige, Hallå konsument"
+   },
+   "authorityUrl": "https://www.hallakonsument.se/"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "garanti-eller-reklamationsratt",
+  "path": "/vardagsjuridik/garanti-eller-reklamationsratt",
+  "track": "buy",
+  "source": "kkl",
+  "law": {
+   "en": "Chapter 4, sections 14, 21 and 22",
+   "sv": "4 kap. 14, 21 och 22 §§",
+   "no": "kap. 4 §§ 14, 21 og 22"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "What is the difference between a guarantee and the right to complain?",
+    "answer": "The right to complain comes from the law and applies to every purchase from a business, for three years. A guarantee is an extra promise from the seller or maker and can never reduce your rights under the law.",
+    "how": "When the guarantee has run out you can still complain under the law. Under a guarantee the seller must show that the fault is not covered.",
+    "object": "Guarantee compared with statutory complaint rights",
+    "title": "What is the difference between a guarantee and the right to…",
+    "description": "The right to complain comes from the law and applies to every purchase from a business, for three years. A guarantee is an extra promise from the…"
+   },
+   "sv": {
+    "question": "Vad är skillnaden mellan garanti och reklamationsrätt?",
+    "answer": "Reklamationsrätten kommer ur lagen och gäller alla köp från företag i tre år. En garanti är ett extra löfte från säljaren eller tillverkaren och kan aldrig minska dina rättigheter enligt lagen.",
+    "how": "När garantin gått ut kan du ändå reklamera enligt lagen. Under garantitiden är det säljaren som ska visa att felet inte omfattas.",
+    "object": "Garanti jämfört med lagens reklamationsrätt",
+    "title": "Vad är skillnaden mellan garanti och reklamationsrätt?",
+    "description": "Reklamationsrätten kommer ur lagen och gäller alla köp från företag i tre år. En garanti är ett extra löfte från säljaren eller tillverkaren och kan…"
+   },
+   "no": {
+    "question": "Hva er forskjellen på garanti og reklamasjonsrett?",
+    "answer": "Reklamasjonsretten kommer fra loven og gjelder alle kjøp fra næringsdrivende i tre år. En garanti er et ekstra løfte fra selger eller produsent og kan aldri redusere rettighetene dine etter loven.",
+    "how": "Når garantien er utløpt, kan du fortsatt reklamere etter loven. I garantitiden er det selgeren som må vise at feilen ikke omfattes.",
+    "object": "Garanti sammenlignet med lovens reklamasjonsrett i Sverige",
+    "title": "Hva er forskjellen på garanti og reklamasjonsrett?",
+    "description": "Reklamasjonsretten kommer fra loven og gjelder alle kjøp fra næringsdrivende i tre år. En garanti er et ekstra løfte fra selger eller produsent og kan…"
+   }
+  },
+  "url": "https://exploreworldai.com/vardagsjuridik/garanti-eller-reklamationsratt",
+  "source_detail": {
+   "name": {
+    "en": "Swedish Consumer Sales Act (2022:260)",
+    "sv": "Konsumentköplag (2022:260)",
+    "no": "Svensk forbrukerkjøpslov (2022:260)"
+   },
+   "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/konsumentkoplag-2022260_sfs-2022-260/",
+   "authority": {
+    "en": "Swedish Consumer Agency, Hallå konsument",
+    "sv": "Konsumentverket, Hallå konsument",
+    "no": "Konsumentverket i Sverige, Hallå konsument"
+   },
+   "authorityUrl": "https://www.hallakonsument.se/"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "angerratt-natkop",
+  "path": "/vardagsjuridik/angerratt-natkop",
+  "track": "buy",
+  "source": "distans",
+  "law": {
+   "en": "Chapter 2, sections 10 to 12",
+   "sv": "2 kap. 10–12 §§",
+   "no": "kap. 2 §§ 10–12"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "Can I return something I bought online in Sweden?",
+    "answer": "Yes. For most online purchases you have a 14 day right of withdrawal, counted from the day you received the goods. You do not need to give a reason.",
+    "how": "If the seller never told you about the right, the period is extended by up to one year. Exceptions include goods made to order, perishable goods and opened sealed hygiene products.",
+    "object": "Right of withdrawal for distance purchases",
+    "title": "Can I return something I bought online in Sweden?",
+    "description": "Yes. For most online purchases you have a 14 day right of withdrawal, counted from the day you received the goods. You do not need to give a reason."
+   },
+   "sv": {
+    "question": "Kan jag ångra ett köp på nätet?",
+    "answer": "Ja. För de flesta köp på nätet har du 14 dagars ångerrätt, räknat från dagen du fick varan. Du behöver inte ange något skäl.",
+    "how": "Har säljaren inte informerat om ångerrätten förlängs tiden med upp till ett år. Undantag gäller bland annat specialtillverkade varor, färskvaror och öppnade förseglade hygienvaror.",
+    "object": "Ångerrätt vid distansköp",
+    "title": "Kan jag ångra ett köp på nätet?",
+    "description": "Ja. För de flesta köp på nätet har du 14 dagars ångerrätt, räknat från dagen du fick varan. Du behöver inte ange något skäl."
+   },
+   "no": {
+    "question": "Kan jeg angre et kjøp på nett i Sverige?",
+    "answer": "Ja. For de fleste kjøp på nett har du 14 dagers angrerett, regnet fra dagen du fikk varen. Du trenger ikke oppgi noen grunn.",
+    "how": "Har selgeren ikke informert om angreretten, forlenges fristen med opptil ett år. Unntak gjelder blant annet spesiallagde varer, ferskvarer og åpnede forseglede hygienevarer.",
+    "object": "Angrerett ved fjernsalg i Sverige",
+    "title": "Kan jeg angre et kjøp på nett i Sverige?",
+    "description": "Ja. For de fleste kjøp på nett har du 14 dagers angrerett, regnet fra dagen du fikk varen. Du trenger ikke oppgi noen grunn."
+   }
+  },
+  "url": "https://exploreworldai.com/vardagsjuridik/angerratt-natkop",
+  "source_detail": {
+   "name": {
+    "en": "Swedish Distance and Off-Premises Contracts Act (2005:59)",
+    "sv": "Lag (2005:59) om distansavtal och avtal utanför affärslokaler",
+    "no": "Svensk lov (2005:59) om fjernsalg og salg utenfor faste forretningslokaler"
+   },
+   "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-200559-om-distansavtal-och-avtal-utanfor_sfs-2005-59/",
+   "authority": {
+    "en": "Swedish Consumer Agency, Hallå konsument",
+    "sv": "Konsumentverket, Hallå konsument",
+    "no": "Konsumentverket i Sverige, Hallå konsument"
+   },
+   "authorityUrl": "https://www.hallakonsument.se/"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "angerratt-aterbetalning",
+  "path": "/vardagsjuridik/angerratt-aterbetalning",
+  "track": "buy",
+  "source": "distans",
+  "law": {
+   "en": "Chapter 2, sections 13 to 15",
+   "sv": "2 kap. 13–15 §§",
+   "no": "kap. 2 §§ 13–15"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "When must the shop refund me after I use the right of withdrawal?",
+    "answer": "The seller must pay back what you paid, including the standard delivery cost, no later than 14 days after learning of your withdrawal. The seller may wait until the goods are returned or you show they have been sent.",
+    "how": "You normally pay the return postage if you were told so beforehand. If you handled the goods more than needed to examine them, the seller may deduct for the loss in value.",
+    "object": "Refund after withdrawal from a distance purchase",
+    "title": "When must the shop refund me after I use the right of…",
+    "description": "The seller must pay back what you paid, including the standard delivery cost, no later than 14 days after learning of your withdrawal. The seller may…"
+   },
+   "sv": {
+    "question": "När ska butiken betala tillbaka när jag ångrar ett köp?",
+    "answer": "Säljaren ska betala tillbaka det du betalat, inklusive vanlig frakt, senast 14 dagar efter att ha fått veta att du ångrat dig. Säljaren får vänta tills varan kommit tillbaka eller du visat att den skickats.",
+    "how": "Du betalar normalt returfrakten om du fått veta det i förväg. Har du hanterat varan mer än som behövs för att undersöka den får säljaren göra avdrag för värdeminskningen.",
+    "object": "Återbetalning efter ångrat distansköp",
+    "title": "När ska butiken betala tillbaka när jag ångrar ett köp?",
+    "description": "Säljaren ska betala tillbaka det du betalat, inklusive vanlig frakt, senast 14 dagar efter att ha fått veta att du ångrat dig. Säljaren får vänta tills…"
+   },
+   "no": {
+    "question": "Når må butikken betale tilbake når jeg angrer et kjøp?",
+    "answer": "Selgeren skal betale tilbake det du har betalt, inkludert vanlig frakt, senest 14 dager etter å ha fått vite at du angret. Selgeren kan vente til varen er kommet tilbake eller du har vist at den er sendt.",
+    "how": "Du betaler normalt returfrakten hvis du fikk vite det på forhånd. Har du håndtert varen mer enn nødvendig for å undersøke den, kan selgeren trekke fra for verditapet.",
+    "object": "Tilbakebetaling etter angret fjernkjøp i Sverige",
+    "title": "Når må butikken betale tilbake når jeg angrer et kjøp?",
+    "description": "Selgeren skal betale tilbake det du har betalt, inkludert vanlig frakt, senest 14 dager etter å ha fått vite at du angret. Selgeren kan vente til varen…"
+   }
+  },
+  "url": "https://exploreworldai.com/vardagsjuridik/angerratt-aterbetalning",
+  "source_detail": {
+   "name": {
+    "en": "Swedish Distance and Off-Premises Contracts Act (2005:59)",
+    "sv": "Lag (2005:59) om distansavtal och avtal utanför affärslokaler",
+    "no": "Svensk lov (2005:59) om fjernsalg og salg utenfor faste forretningslokaler"
+   },
+   "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-200559-om-distansavtal-och-avtal-utanfor_sfs-2005-59/",
+   "authority": {
+    "en": "Swedish Consumer Agency, Hallå konsument",
+    "sv": "Konsumentverket, Hallå konsument",
+    "no": "Konsumentverket i Sverige, Hallå konsument"
+   },
+   "authorityUrl": "https://www.hallakonsument.se/"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "arn-tvist-med-foretag",
+  "path": "/vardagsjuridik/arn-tvist-med-foretag",
+  "track": "buy",
+  "source": "kkl",
+  "law": {
+   "en": "Chapter 5, sections 1 and 2",
+   "sv": "5 kap. 1 och 2 §§",
+   "no": "kap. 5 §§ 1 og 2"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "What can I do if the shop refuses my complaint?",
+    "answer": "You can take the dispute to the National Board for Consumer Disputes (ARN) free of charge. ARN gives a recommendation, which most businesses follow, but it is not binding.",
+    "how": "Complain to the business in writing first and keep the answer. Hallå konsument gives free guidance before you file, and a court remains open if the business does not follow ARN.",
+    "object": "Consumer dispute with a business",
+    "title": "What can I do if the shop refuses my complaint?",
+    "description": "You can take the dispute to the National Board for Consumer Disputes (ARN) free of charge. ARN gives a recommendation, which most businesses follow,…"
+   },
+   "sv": {
+    "question": "Vad gör jag om butiken nekar min reklamation?",
+    "answer": "Du kan anmäla tvisten till Allmänna reklamationsnämnden (ARN) utan kostnad. ARN ger en rekommendation som de flesta företag följer, men den är inte bindande.",
+    "how": "Reklamera skriftligt till företaget först och spara svaret. Hallå konsument ger gratis vägledning innan du anmäler, och domstol finns kvar om företaget inte följer ARN.",
+    "object": "Konsumenttvist med ett företag",
+    "title": "Vad gör jag om butiken nekar min reklamation?",
+    "description": "Du kan anmäla tvisten till Allmänna reklamationsnämnden (ARN) utan kostnad. ARN ger en rekommendation som de flesta företag följer, men den är inte…"
+   },
+   "no": {
+    "question": "Hva gjør jeg hvis butikken avviser reklamasjonen min?",
+    "answer": "Du kan melde tvisten til Allmänna reklamationsnämnden (ARN), den svenske forbrukertvistnemnda, uten kostnad. ARN gir en anbefaling som de fleste bedrifter følger, men den er ikke bindende.",
+    "how": "Reklamer skriftlig til bedriften først og ta vare på svaret. Hallå konsument gir gratis veiledning før du melder saken, og domstol er fortsatt mulig hvis bedriften ikke følger ARN.",
+    "object": "Forbrukertvist med en bedrift i Sverige",
+    "title": "Hva gjør jeg hvis butikken avviser reklamasjonen min?",
+    "description": "Du kan melde tvisten til Allmänna reklamationsnämnden (ARN), den svenske forbrukertvistnemnda, uten kostnad. ARN gir en anbefaling som de fleste…"
+   }
+  },
+  "url": "https://exploreworldai.com/vardagsjuridik/arn-tvist-med-foretag",
+  "source_detail": {
+   "name": {
+    "en": "Swedish Consumer Sales Act (2022:260)",
+    "sv": "Konsumentköplag (2022:260)",
+    "no": "Svensk forbrukerkjøpslov (2022:260)"
+   },
+   "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/konsumentkoplag-2022260_sfs-2022-260/",
+   "authority": {
+    "en": "Swedish Consumer Agency, Hallå konsument",
+    "sv": "Konsumentverket, Hallå konsument",
+    "no": "Konsumentverket i Sverige, Hallå konsument"
+   },
+   "authorityUrl": "https://www.hallakonsument.se/"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "uppsagningstid-hyresratt",
+  "path": "/vardagsjuridik/uppsagningstid-hyresratt",
+  "track": "home",
+  "source": "hyreslag",
+  "law": {
+   "en": "Chapter 12, section 4",
+   "sv": "12 kap. 4 §",
+   "no": "kap. 12 § 4"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "What is the notice period for a rented flat in Sweden?",
+    "answer": "For a flat let until further notice, the notice period is three months, counted to the turn of a month. That applies both when you and when the landlord gives notice.",
+    "how": "Notice should be given in writing. A longer period may be agreed in the lease, but a shorter one cannot be imposed on you as tenant.",
+    "object": "Notice period for a residential lease",
+    "title": "What is the notice period for a rented flat in Sweden?",
+    "description": "For a flat let until further notice, the notice period is three months, counted to the turn of a month. That applies both when you and when the…"
+   },
+   "sv": {
+    "question": "Vilken uppsägningstid har en hyreslägenhet?",
+    "answer": "För en lägenhet som hyrs tills vidare är uppsägningstiden tre månader, räknat till ett månadsskifte. Det gäller både när du och när hyresvärden säger upp.",
+    "how": "Uppsägningen bör vara skriftlig. En längre tid kan avtalas i kontraktet, men en kortare tid kan inte tvingas på dig som hyresgäst.",
+    "object": "Uppsägningstid för bostadshyra",
+    "title": "Vilken uppsägningstid har en hyreslägenhet?",
+    "description": "För en lägenhet som hyrs tills vidare är uppsägningstiden tre månader, räknat till ett månadsskifte. Det gäller både när du och när hyresvärden säger upp."
+   },
+   "no": {
+    "question": "Hva er oppsigelsestiden for en leid leilighet i Sverige?",
+    "answer": "For en leilighet som leies på ubestemt tid, er oppsigelsestiden tre måneder, regnet til et månedsskifte. Det gjelder både når du og når utleieren sier opp.",
+    "how": "Oppsigelsen bør være skriftlig. Lengre tid kan avtales i kontrakten, men kortere tid kan ikke pålegges deg som leietaker.",
+    "object": "Oppsigelsestid for boligleie i Sverige",
+    "title": "Hva er oppsigelsestiden for en leid leilighet i Sverige?",
+    "description": "For en leilighet som leies på ubestemt tid, er oppsigelsestiden tre måneder, regnet til et månedsskifte. Det gjelder både når du og når utleieren sier opp."
+   }
+  },
+  "url": "https://exploreworldai.com/vardagsjuridik/uppsagningstid-hyresratt",
+  "source_detail": {
+   "name": {
+    "en": "Swedish Land Code, chapter 12 (the Tenancy Act)",
+    "sv": "Jordabalken (1970:994) 12 kap. (hyreslagen)",
+    "no": "Svensk jordabalk (1970:994) kap. 12 (husleieloven)"
+   },
+   "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/jordabalk-1970994_sfs-1970-994/",
+   "authority": {
+    "en": "Swedish Rent Tribunal (Hyresnämnden)",
+    "sv": "Hyresnämnden",
+    "no": "Husleienemnda i Sverige (Hyresnämnden)"
+   },
+   "authorityUrl": "https://www.hyresnamnden.se/"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "hyra-ut-i-andra-hand",
+  "path": "/vardagsjuridik/hyra-ut-i-andra-hand",
+  "track": "home",
+  "source": "hyreslag",
+  "law": {
+   "en": "Chapter 12, sections 39 and 40",
+   "sv": "12 kap. 39 och 40 §§",
+   "no": "kap. 12 §§ 39 og 40"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "Can I sublet my rented flat?",
+    "answer": "Only with the landlord's consent, or with permission from the Rent Tribunal if the landlord says no. The tribunal grants permission when you have a sound reason, for example work or studies elsewhere for a limited time.",
+    "how": "Subletting without permission can cost you the lease. Permission is given for a set period.",
+    "object": "Subletting a rental flat",
+    "title": "Can I sublet my rented flat?",
+    "description": "Only with the landlord's consent, or with permission from the Rent Tribunal if the landlord says no. The tribunal grants permission when you have a…"
+   },
+   "sv": {
+    "question": "Får jag hyra ut min hyreslägenhet i andra hand?",
+    "answer": "Bara med hyresvärdens samtycke, eller med tillstånd från hyresnämnden om hyresvärden säger nej. Nämnden ger tillstånd när du har beaktansvärda skäl, till exempel arbete eller studier på annan ort under en begränsad tid.",
+    "how": "Andrahandsuthyrning utan tillstånd kan leda till att du förlorar kontraktet. Tillståndet ges för en bestämd tid.",
+    "object": "Andrahandsuthyrning av hyreslägenhet",
+    "title": "Får jag hyra ut min hyreslägenhet i andra hand?",
+    "description": "Bara med hyresvärdens samtycke, eller med tillstånd från hyresnämnden om hyresvärden säger nej. Nämnden ger tillstånd när du har beaktansvärda skäl,…"
+   },
+   "no": {
+    "question": "Kan jeg fremleie den leide leiligheten min i Sverige?",
+    "answer": "Bare med utleierens samtykke, eller med tillatelse fra Hyresnämnden hvis utleieren sier nei. Nemnda gir tillatelse når du har gode grunner, for eksempel arbeid eller studier et annet sted i en begrenset periode.",
+    "how": "Fremleie uten tillatelse kan føre til at du mister kontrakten. Tillatelsen gis for en bestemt tid.",
+    "object": "Fremleie av leid leilighet i Sverige",
+    "title": "Kan jeg fremleie den leide leiligheten min i Sverige?",
+    "description": "Bare med utleierens samtykke, eller med tillatelse fra Hyresnämnden hvis utleieren sier nei. Nemnda gir tillatelse når du har gode grunner, for…"
+   }
+  },
+  "url": "https://exploreworldai.com/vardagsjuridik/hyra-ut-i-andra-hand",
+  "source_detail": {
+   "name": {
+    "en": "Swedish Land Code, chapter 12 (the Tenancy Act)",
+    "sv": "Jordabalken (1970:994) 12 kap. (hyreslagen)",
+    "no": "Svensk jordabalk (1970:994) kap. 12 (husleieloven)"
+   },
+   "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/jordabalk-1970994_sfs-1970-994/",
+   "authority": {
+    "en": "Swedish Rent Tribunal (Hyresnämnden)",
+    "sv": "Hyresnämnden",
+    "no": "Husleienemnda i Sverige (Hyresnämnden)"
+   },
+   "authorityUrl": "https://www.hyresnamnden.se/"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "for-hog-hyra",
+  "path": "/vardagsjuridik/for-hog-hyra",
+  "track": "home",
+  "source": "hyreslag",
+  "law": {
+   "en": "Chapter 12, section 55",
+   "sv": "12 kap. 55 §",
+   "no": "kap. 12 § 55"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "What can I do if my rent is too high?",
+    "answer": "You can ask the Rent Tribunal to test the rent. The rent may not be clearly higher than for comparable flats, the so called utility value, and the tribunal can lower it.",
+    "how": "Rents agreed in negotiations with a tenants' union weigh heavily in the comparison. Applying to the tribunal costs nothing.",
+    "object": "Rent level in a residential lease",
+    "title": "What can I do if my rent is too high?",
+    "description": "You can ask the Rent Tribunal to test the rent. The rent may not be clearly higher than for comparable flats, the so called utility value, and the…"
+   },
+   "sv": {
+    "question": "Vad gör jag om hyran är för hög?",
+    "answer": "Du kan be hyresnämnden pröva hyran. Hyran får inte vara påtagligt högre än för likvärdiga lägenheter, det så kallade bruksvärdet, och nämnden kan sätta ned den.",
+    "how": "Hyror som förhandlats med en hyresgästorganisation väger tungt i jämförelsen. Det kostar inget att ansöka hos nämnden.",
+    "object": "Hyrans nivå vid bostadshyra",
+    "title": "Vad gör jag om hyran är för hög?",
+    "description": "Du kan be hyresnämnden pröva hyran. Hyran får inte vara påtagligt högre än för likvärdiga lägenheter, det så kallade bruksvärdet, och nämnden kan sätta…"
+   },
+   "no": {
+    "question": "Hva gjør jeg hvis husleien er for høy i Sverige?",
+    "answer": "Du kan be Hyresnämnden prøve husleien. Leien kan ikke være vesentlig høyere enn for sammenlignbare leiligheter, den såkalte bruksverdien, og nemnda kan sette den ned.",
+    "how": "Husleier som er forhandlet med en leietakerorganisasjon, veier tungt i sammenligningen. Det koster ingenting å søke hos nemnda.",
+    "object": "Husleienivå ved boligleie i Sverige",
+    "title": "Hva gjør jeg hvis husleien er for høy i Sverige?",
+    "description": "Du kan be Hyresnämnden prøve husleien. Leien kan ikke være vesentlig høyere enn for sammenlignbare leiligheter, den såkalte bruksverdien, og nemnda kan…"
+   }
+  },
+  "url": "https://exploreworldai.com/vardagsjuridik/for-hog-hyra",
+  "source_detail": {
+   "name": {
+    "en": "Swedish Land Code, chapter 12 (the Tenancy Act)",
+    "sv": "Jordabalken (1970:994) 12 kap. (hyreslagen)",
+    "no": "Svensk jordabalk (1970:994) kap. 12 (husleieloven)"
+   },
+   "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/jordabalk-1970994_sfs-1970-994/",
+   "authority": {
+    "en": "Swedish Rent Tribunal (Hyresnämnden)",
+    "sv": "Hyresnämnden",
+    "no": "Husleienemnda i Sverige (Hyresnämnden)"
+   },
+   "authorityUrl": "https://www.hyresnamnden.se/"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "brister-i-lagenheten",
+  "path": "/vardagsjuridik/brister-i-lagenheten",
+  "track": "home",
+  "source": "hyreslag",
+  "law": {
+   "en": "Chapter 12, sections 15 and 16",
+   "sv": "12 kap. 15 och 16 §§",
+   "no": "kap. 12 §§ 15 og 16"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "The landlord will not fix a fault in my flat. What are my rights?",
+    "answer": "The landlord must keep the flat in a usable condition during the lease. If it is not, you may get a rent reduction for the time the fault lasts, and you may ask the Rent Tribunal to order repairs.",
+    "how": "Report the fault to the landlord in writing as soon as you notice it. Do not hold back the rent on your own, since late rent can cost you the lease.",
+    "object": "Faults in a rented flat",
+    "title": "The landlord will not fix a fault in my flat. What are my…",
+    "description": "The landlord must keep the flat in a usable condition during the lease. If it is not, you may get a rent reduction for the time the fault lasts, and…"
+   },
+   "sv": {
+    "question": "Hyresvärden åtgärdar inte felet i lägenheten. Vilka rättigheter har jag?",
+    "answer": "Hyresvärden ska hålla lägenheten i brukbart skick under hyrestiden. Är den inte det kan du få nedsättning av hyran för den tid felet finns, och du kan be hyresnämnden förelägga hyresvärden att åtgärda bristen.",
+    "how": "Anmäl felet skriftligt till hyresvärden så snart du märker det. Håll inte inne hyran på egen hand, eftersom sen hyra kan kosta dig kontraktet.",
+    "object": "Brister i hyrd lägenhet",
+    "title": "Hyresvärden åtgärdar inte felet i lägenheten. Vilka…",
+    "description": "Hyresvärden ska hålla lägenheten i brukbart skick under hyrestiden. Är den inte det kan du få nedsättning av hyran för den tid felet finns, och du kan…"
+   },
+   "no": {
+    "question": "Utleieren retter ikke feilen i leiligheten. Hvilke rettigheter har jeg?",
+    "answer": "Utleieren skal holde leiligheten i brukbar stand i leieperioden. Er den ikke det, kan du få redusert husleie for tiden feilen varer, og du kan be Hyresnämnden pålegge utleieren å rette mangelen.",
+    "how": "Meld feilen skriftlig til utleieren så snart du oppdager den. Ikke hold tilbake husleien på egen hånd, siden for sen leie kan koste deg kontrakten.",
+    "object": "Mangler ved leid leilighet i Sverige",
+    "title": "Utleieren retter ikke feilen i leiligheten. Hvilke…",
+    "description": "Utleieren skal holde leiligheten i brukbar stand i leieperioden. Er den ikke det, kan du få redusert husleie for tiden feilen varer, og du kan be…"
+   }
+  },
+  "url": "https://exploreworldai.com/vardagsjuridik/brister-i-lagenheten",
+  "source_detail": {
+   "name": {
+    "en": "Swedish Land Code, chapter 12 (the Tenancy Act)",
+    "sv": "Jordabalken (1970:994) 12 kap. (hyreslagen)",
+    "no": "Svensk jordabalk (1970:994) kap. 12 (husleieloven)"
+   },
+   "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/jordabalk-1970994_sfs-1970-994/",
+   "authority": {
+    "en": "Swedish Rent Tribunal (Hyresnämnden)",
+    "sv": "Hyresnämnden",
+    "no": "Husleienemnda i Sverige (Hyresnämnden)"
+   },
+   "authorityUrl": "https://www.hyresnamnden.se/"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "sen-hyra",
+  "path": "/vardagsjuridik/sen-hyra",
+  "track": "home",
+  "source": "hyreslag",
+  "law": {
+   "en": "Chapter 12, sections 42 and 44",
+   "sv": "12 kap. 42 och 44 §§",
+   "no": "kap. 12 §§ 42 og 44"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "What happens if I pay the rent late?",
+    "answer": "If the rent is more than a week late, the landlord may terminate the lease. You can usually keep the flat if you pay within three weeks of being notified of the termination.",
+    "how": "The landlord must also inform the social services. The chance to recover the lease does not apply if you have repeatedly paid late.",
+    "object": "Late payment of rent",
+    "title": "What happens if I pay the rent late?",
+    "description": "If the rent is more than a week late, the landlord may terminate the lease. You can usually keep the flat if you pay within three weeks of being…"
+   },
+   "sv": {
+    "question": "Vad händer om jag betalar hyran för sent?",
+    "answer": "Är hyran mer än en vecka försenad får hyresvärden säga upp avtalet. Du kan i regel behålla lägenheten om du betalar inom tre veckor från att du delgetts uppsägningen.",
+    "how": "Hyresvärden ska också underrätta socialnämnden. Möjligheten att återvinna kontraktet gäller inte om du upprepade gånger betalat för sent.",
+    "object": "Försenad hyresbetalning",
+    "title": "Vad händer om jag betalar hyran för sent?",
+    "description": "Är hyran mer än en vecka försenad får hyresvärden säga upp avtalet. Du kan i regel behålla lägenheten om du betalar inom tre veckor från att du…"
+   },
+   "no": {
+    "question": "Hva skjer hvis jeg betaler husleien for sent i Sverige?",
+    "answer": "Er husleien mer enn en uke forsinket, kan utleieren si opp avtalen. Du kan som regel beholde leiligheten hvis du betaler innen tre uker etter at du fikk oppsigelsen forkynt.",
+    "how": "Utleieren skal også varsle sosialtjenesten. Muligheten til å beholde kontrakten gjelder ikke hvis du gjentatte ganger har betalt for sent.",
+    "object": "Forsinket betaling av husleie i Sverige",
+    "title": "Hva skjer hvis jeg betaler husleien for sent i Sverige?",
+    "description": "Er husleien mer enn en uke forsinket, kan utleieren si opp avtalen. Du kan som regel beholde leiligheten hvis du betaler innen tre uker etter at du…"
+   }
+  },
+  "url": "https://exploreworldai.com/vardagsjuridik/sen-hyra",
+  "source_detail": {
+   "name": {
+    "en": "Swedish Land Code, chapter 12 (the Tenancy Act)",
+    "sv": "Jordabalken (1970:994) 12 kap. (hyreslagen)",
+    "no": "Svensk jordabalk (1970:994) kap. 12 (husleieloven)"
+   },
+   "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/jordabalk-1970994_sfs-1970-994/",
+   "authority": {
+    "en": "Swedish Rent Tribunal (Hyresnämnden)",
+    "sv": "Hyresnämnden",
+    "no": "Husleienemnda i Sverige (Hyresnämnden)"
+   },
+   "authorityUrl": "https://www.hyresnamnden.se/"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "hyra-ut-egen-bostad",
+  "path": "/vardagsjuridik/hyra-ut-egen-bostad",
+  "track": "home",
+  "source": "egenbostad",
+  "law": {
+   "en": "Sections 1, 3 and 4",
+   "sv": "1, 3 och 4 §§",
+   "no": "§§ 1, 3 og 4"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "What rules apply if I rent out my own flat or house?",
+    "answer": "Private people letting their own home use a separate act. The rent may cover your capital and running costs, and for a lease until further notice the tenant may give one month's notice and you must give three months' notice.",
+    "how": "The tenant has no right to stay on after notice, and the act applies when you do not let homes as a business. A condominium owner still needs the housing association's consent to let the flat.",
+    "object": "Private letting of one's own home",
+    "title": "What rules apply if I rent out my own flat or house?",
+    "description": "Private people letting their own home use a separate act. The rent may cover your capital and running costs, and for a lease until further notice the…"
+   },
+   "sv": {
+    "question": "Vilka regler gäller om jag hyr ut min egen bostad?",
+    "answer": "Privatpersoner som hyr ut sin egen bostad följer en särskild lag. Hyran får täcka dina kapital- och driftskostnader, och vid hyra tills vidare har hyresgästen en månads uppsägningstid och du tre månader.",
+    "how": "Hyresgästen har inget besittningsskydd, och lagen gäller när du inte hyr ut bostäder som näring. En bostadsrättshavare behöver ändå föreningens samtycke för att hyra ut.",
+    "object": "Privatuthyrning av egen bostad",
+    "title": "Vilka regler gäller om jag hyr ut min egen bostad?",
+    "description": "Privatpersoner som hyr ut sin egen bostad följer en särskild lag. Hyran får täcka dina kapital- och driftskostnader, och vid hyra tills vidare har…"
+   },
+   "no": {
+    "question": "Hvilke regler gjelder hvis jeg leier ut min egen bolig i Sverige?",
+    "answer": "Privatpersoner som leier ut sin egen bolig, følger en egen lov. Leien kan dekke kapital- og driftskostnadene dine, og ved leie på ubestemt tid har leietakeren én måneds oppsigelsestid og du tre måneder.",
+    "how": "Leietakeren har ikke rett til forlengelse, og loven gjelder når du ikke leier ut boliger som næring. En borettshaver trenger likevel foreningens samtykke for å leie ut.",
+    "object": "Privat utleie av egen bolig i Sverige",
+    "title": "Hvilke regler gjelder hvis jeg leier ut min egen bolig i…",
+    "description": "Privatpersoner som leier ut sin egen bolig, følger en egen lov. Leien kan dekke kapital- og driftskostnadene dine, og ved leie på ubestemt tid har…"
+   }
+  },
+  "url": "https://exploreworldai.com/vardagsjuridik/hyra-ut-egen-bostad",
+  "source_detail": {
+   "name": {
+    "en": "Swedish Act on Letting One's Own Home (2012:978)",
+    "sv": "Lag (2012:978) om uthyrning av egen bostad",
+    "no": "Svensk lov (2012:978) om utleie av egen bolig"
+   },
+   "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-2012978-om-uthyrning-av-egen-bostad_sfs-2012-978/",
+   "authority": {
+    "en": "Swedish Rent Tribunal (Hyresnämnden)",
+    "sv": "Hyresnämnden",
+    "no": "Husleienemnda i Sverige (Hyresnämnden)"
+   },
+   "authorityUrl": "https://www.hyresnamnden.se/"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "uppsagningstid-arbetsgivare",
+  "path": "/vardagsjuridik/uppsagningstid-arbetsgivare",
+  "track": "work",
+  "source": "las",
+  "law": {
+   "en": "Section 11",
+   "sv": "11 §",
+   "no": "§ 11"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "How long is my notice period if my employer dismisses me?",
+    "answer": "The notice period is at least one month. It grows with your time at the employer: two months after two years, three after four, four after six, five after eight and six months after ten years.",
+    "how": "When you resign yourself, the statutory notice period is one month. A collective agreement may set other periods.",
+    "object": "Notice period under the Employment Protection Act",
+    "title": "How long is my notice period if my employer dismisses me?",
+    "description": "The notice period is at least one month. It grows with your time at the employer: two months after two years, three after four, four after six, five…"
+   },
+   "sv": {
+    "question": "Hur lång uppsägningstid har jag om arbetsgivaren säger upp mig?",
+    "answer": "Uppsägningstiden är minst en månad. Den ökar med anställningstiden: två månader efter två år, tre efter fyra, fyra efter sex, fem efter åtta och sex månader efter tio år.",
+    "how": "Säger du själv upp dig är lagens uppsägningstid en månad. Ett kollektivavtal kan ange andra tider.",
+    "object": "Uppsägningstid enligt anställningsskyddslagen",
+    "title": "Hur lång uppsägningstid har jag om arbetsgivaren säger upp…",
+    "description": "Uppsägningstiden är minst en månad. Den ökar med anställningstiden: två månader efter två år, tre efter fyra, fyra efter sex, fem efter åtta och sex…"
+   },
+   "no": {
+    "question": "Hvor lang oppsigelsestid har jeg hvis arbeidsgiveren sier meg opp i Sverige?",
+    "answer": "Oppsigelsestiden er minst én måned. Den øker med ansettelsestiden: to måneder etter to år, tre etter fire, fire etter seks, fem etter åtte og seks måneder etter ti år.",
+    "how": "Sier du selv opp, er lovens oppsigelsestid én måned. En tariffavtale kan sette andre frister.",
+    "object": "Oppsigelsestid etter den svenske stillingsvernloven",
+    "title": "Hvor lang oppsigelsestid har jeg hvis arbeidsgiveren sier…",
+    "description": "Oppsigelsestiden er minst én måned. Den øker med ansettelsestiden: to måneder etter to år, tre etter fire, fire etter seks, fem etter åtte og seks…"
+   }
+  },
+  "url": "https://exploreworldai.com/vardagsjuridik/uppsagningstid-arbetsgivare",
+  "source_detail": {
+   "name": {
+    "en": "Swedish Employment Protection Act (1982:80)",
+    "sv": "Lag (1982:80) om anställningsskydd",
+    "no": "Svensk lov (1982:80) om stillingsvern"
+   },
+   "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-198280-om-anstallningsskydd_sfs-1982-80/",
+   "authority": {
+    "en": "Swedish Labour Court (Arbetsdomstolen)",
+    "sv": "Arbetsdomstolen",
+    "no": "Arbeidsretten i Sverige (Arbetsdomstolen)"
+   },
+   "authorityUrl": "https://www.arbetsdomstolen.se/"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "sakliga-skal-uppsagning",
+  "path": "/vardagsjuridik/sakliga-skal-uppsagning",
+  "track": "work",
+  "source": "las",
+  "law": {
+   "en": "Section 7",
+   "sv": "7 §",
+   "no": "§ 7"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "Can my employer dismiss me without a reason?",
+    "answer": "No. A dismissal by the employer must be based on objective grounds, either a lack of work or reasons relating to you personally. Personal reasons are not enough if the employer could reasonably have moved you to other work.",
+    "how": "Since October 2022 the act speaks of objective reasons, and the assessment of personal reasons focuses more on how you have acted. A trial period can be ended without such grounds.",
+    "object": "Grounds for dismissal",
+    "title": "Can my employer dismiss me without a reason?",
+    "description": "No. A dismissal by the employer must be based on objective grounds, either a lack of work or reasons relating to you personally. Personal reasons are…"
+   },
+   "sv": {
+    "question": "Får arbetsgivaren säga upp mig utan skäl?",
+    "answer": "Nej. En uppsägning från arbetsgivaren ska vara sakligt grundad, antingen på arbetsbrist eller på skäl som hänför sig till dig personligen. Personliga skäl räcker inte om arbetsgivaren skäligen kunnat omplacera dig.",
+    "how": "Sedan oktober 2022 talar lagen om sakliga skäl, och bedömningen av personliga skäl utgår mer från hur du har agerat. En provanställning kan avslutas utan sådana skäl.",
+    "object": "Grund för uppsägning",
+    "title": "Får arbetsgivaren säga upp mig utan skäl?",
+    "description": "Nej. En uppsägning från arbetsgivaren ska vara sakligt grundad, antingen på arbetsbrist eller på skäl som hänför sig till dig personligen. Personliga…"
+   },
+   "no": {
+    "question": "Kan arbeidsgiveren si meg opp uten grunn i Sverige?",
+    "answer": "Nei. En oppsigelse fra arbeidsgiveren må være saklig begrunnet, enten i arbeidsmangel eller i forhold som gjelder deg personlig. Personlige grunner er ikke nok hvis arbeidsgiveren rimelig kunne omplassert deg.",
+    "how": "Siden oktober 2022 bruker loven uttrykket saklige grunner, og vurderingen av personlige grunner tar mer utgangspunkt i hvordan du har opptrådt. En prøveansettelse kan avsluttes uten slike grunner.",
+    "object": "Grunnlag for oppsigelse i Sverige",
+    "title": "Kan arbeidsgiveren si meg opp uten grunn i Sverige?",
+    "description": "Nei. En oppsigelse fra arbeidsgiveren må være saklig begrunnet, enten i arbeidsmangel eller i forhold som gjelder deg personlig. Personlige grunner er…"
+   }
+  },
+  "url": "https://exploreworldai.com/vardagsjuridik/sakliga-skal-uppsagning",
+  "source_detail": {
+   "name": {
+    "en": "Swedish Employment Protection Act (1982:80)",
+    "sv": "Lag (1982:80) om anställningsskydd",
+    "no": "Svensk lov (1982:80) om stillingsvern"
+   },
+   "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-198280-om-anstallningsskydd_sfs-1982-80/",
+   "authority": {
+    "en": "Swedish Labour Court (Arbetsdomstolen)",
+    "sv": "Arbetsdomstolen",
+    "no": "Arbeidsretten i Sverige (Arbetsdomstolen)"
+   },
+   "authorityUrl": "https://www.arbetsdomstolen.se/"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "provanstallning-avslut",
+  "path": "/vardagsjuridik/provanstallning-avslut",
+  "track": "work",
+  "source": "las",
+  "law": {
+   "en": "Sections 6 and 31",
+   "sv": "6 och 31 §§",
+   "no": "§§ 6 og 31"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "How long can a trial period last and how is it ended?",
+    "answer": "A trial period may last at most six months. Unless otherwise agreed, either side may end it before it runs out without giving a reason, and the employer must give at least two weeks' notice that it will end.",
+    "how": "If neither side ends it, the trial period turns into a permanent job. A collective agreement may set other rules.",
+    "object": "Trial employment",
+    "title": "How long can a trial period last and how is it ended?",
+    "description": "A trial period may last at most six months. Unless otherwise agreed, either side may end it before it runs out without giving a reason, and the…"
+   },
+   "sv": {
+    "question": "Hur länge får en provanställning vara och hur avslutas den?",
+    "answer": "En provanställning får vara högst sex månader. Om inget annat avtalats kan båda parter avsluta den innan tiden gått ut utan att ange skäl, och arbetsgivaren ska lämna besked minst två veckor innan den upphör.",
+    "how": "Avslutar ingen den övergår provanställningen i en tillsvidareanställning. Ett kollektivavtal kan innehålla andra regler.",
+    "object": "Provanställning",
+    "title": "Hur länge får en provanställning vara och hur avslutas den?",
+    "description": "En provanställning får vara högst sex månader. Om inget annat avtalats kan båda parter avsluta den innan tiden gått ut utan att ange skäl, och…"
+   },
+   "no": {
+    "question": "Hvor lenge kan en prøveansettelse vare, og hvordan avsluttes den i Sverige?",
+    "answer": "En prøveansettelse kan vare høyst seks måneder. Med mindre annet er avtalt, kan begge parter avslutte den før tiden er ute uten å oppgi grunn, og arbeidsgiveren skal gi beskjed minst to uker før den opphører.",
+    "how": "Avslutter ingen den, går prøveansettelsen over til fast ansettelse. En tariffavtale kan ha andre regler.",
+    "object": "Prøveansettelse i Sverige",
+    "title": "Hvor lenge kan en prøveansettelse vare, og hvordan…",
+    "description": "En prøveansettelse kan vare høyst seks måneder. Med mindre annet er avtalt, kan begge parter avslutte den før tiden er ute uten å oppgi grunn, og…"
+   }
+  },
+  "url": "https://exploreworldai.com/vardagsjuridik/provanstallning-avslut",
+  "source_detail": {
+   "name": {
+    "en": "Swedish Employment Protection Act (1982:80)",
+    "sv": "Lag (1982:80) om anställningsskydd",
+    "no": "Svensk lov (1982:80) om stillingsvern"
+   },
+   "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-198280-om-anstallningsskydd_sfs-1982-80/",
+   "authority": {
+    "en": "Swedish Labour Court (Arbetsdomstolen)",
+    "sv": "Arbetsdomstolen",
+    "no": "Arbeidsretten i Sverige (Arbetsdomstolen)"
+   },
+   "authorityUrl": "https://www.arbetsdomstolen.se/"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "turordning-arbetsbrist",
+  "path": "/vardagsjuridik/turordning-arbetsbrist",
+  "track": "work",
+  "source": "las",
+  "law": {
+   "en": "Section 22",
+   "sv": "22 §",
+   "no": "§ 22"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "Who has to go first when there is a lack of work?",
+    "answer": "The employer follows an order of priority based on time in employment, last in first out, within each operating unit. Before that, the employer may exempt three employees it considers most important.",
+    "how": "You must have sufficient qualifications for the remaining work to keep your place. A collective agreement may set a different order.",
+    "object": "Order of priority at redundancy",
+    "title": "Who has to go first when there is a lack of work?",
+    "description": "The employer follows an order of priority based on time in employment, last in first out, within each operating unit. Before that, the employer may…"
+   },
+   "sv": {
+    "question": "Vem ska gå först vid arbetsbrist?",
+    "answer": "Arbetsgivaren följer en turordning efter anställningstid, sist in först ut, inom varje driftsenhet. Innan dess får arbetsgivaren undanta tre anställda som den anser vara särskilt viktiga.",
+    "how": "Du behöver ha tillräckliga kvalifikationer för det kvarvarande arbetet för att behålla din plats. Ett kollektivavtal kan ange en annan ordning.",
+    "object": "Turordning vid arbetsbrist",
+    "title": "Vem ska gå först vid arbetsbrist?",
+    "description": "Arbetsgivaren följer en turordning efter anställningstid, sist in först ut, inom varje driftsenhet. Innan dess får arbetsgivaren undanta tre anställda…"
+   },
+   "no": {
+    "question": "Hvem må gå først ved arbeidsmangel i Sverige?",
+    "answer": "Arbeidsgiveren følger en turordning etter ansettelsestid, sist inn først ut, innenfor hver driftsenhet. Før det kan arbeidsgiveren unnta tre ansatte den anser som særlig viktige.",
+    "how": "Du må ha tilstrekkelige kvalifikasjoner for det gjenværende arbeidet for å beholde plassen. En tariffavtale kan sette en annen rekkefølge.",
+    "object": "Turordning ved arbeidsmangel i Sverige",
+    "title": "Hvem må gå først ved arbeidsmangel i Sverige?",
+    "description": "Arbeidsgiveren følger en turordning etter ansettelsestid, sist inn først ut, innenfor hver driftsenhet. Før det kan arbeidsgiveren unnta tre ansatte…"
+   }
+  },
+  "url": "https://exploreworldai.com/vardagsjuridik/turordning-arbetsbrist",
+  "source_detail": {
+   "name": {
+    "en": "Swedish Employment Protection Act (1982:80)",
+    "sv": "Lag (1982:80) om anställningsskydd",
+    "no": "Svensk lov (1982:80) om stillingsvern"
+   },
+   "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-198280-om-anstallningsskydd_sfs-1982-80/",
+   "authority": {
+    "en": "Swedish Labour Court (Arbetsdomstolen)",
+    "sv": "Arbetsdomstolen",
+    "no": "Arbeidsretten i Sverige (Arbetsdomstolen)"
+   },
+   "authorityUrl": "https://www.arbetsdomstolen.se/"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "foretradesratt-ateranstallning",
+  "path": "/vardagsjuridik/foretradesratt-ateranstallning",
+  "track": "work",
+  "source": "las",
+  "law": {
+   "en": "Section 25",
+   "sv": "25 §",
+   "no": "§ 25"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "Do I have a right to be rehired after a redundancy?",
+    "answer": "Yes, if you have been employed for more than twelve months in total during the last three years. The right lasts from the notice until nine months after your employment ended.",
+    "how": "You must tell the employer that you want to use the right. It applies to the same operating unit, and you must have sufficient qualifications for the new job.",
+    "object": "Preferential right to re-employment",
+    "title": "Do I have a right to be rehired after a redundancy?",
+    "description": "Yes, if you have been employed for more than twelve months in total during the last three years. The right lasts from the notice until nine months…"
+   },
+   "sv": {
+    "question": "Har jag rätt att bli återanställd efter arbetsbrist?",
+    "answer": "Ja, om du har varit anställd i sammanlagt mer än tolv månader under de senaste tre åren. Rätten gäller från uppsägningen till nio månader efter att anställningen upphört.",
+    "how": "Du ska anmäla till arbetsgivaren att du vill använda företrädesrätten. Den gäller inom samma driftsenhet, och du ska ha tillräckliga kvalifikationer för den nya anställningen.",
+    "object": "Företrädesrätt till återanställning",
+    "title": "Har jag rätt att bli återanställd efter arbetsbrist?",
+    "description": "Ja, om du har varit anställd i sammanlagt mer än tolv månader under de senaste tre åren. Rätten gäller från uppsägningen till nio månader efter att…"
+   },
+   "no": {
+    "question": "Har jeg rett til å bli ansatt igjen etter arbeidsmangel i Sverige?",
+    "answer": "Ja, hvis du har vært ansatt i til sammen mer enn tolv måneder de siste tre årene. Retten gjelder fra oppsigelsen til ni måneder etter at ansettelsen opphørte.",
+    "how": "Du må melde til arbeidsgiveren at du vil bruke fortrinnsretten. Den gjelder innenfor samme driftsenhet, og du må ha tilstrekkelige kvalifikasjoner for den nye stillingen.",
+    "object": "Fortrinnsrett til ny ansettelse i Sverige",
+    "title": "Har jeg rett til å bli ansatt igjen etter arbeidsmangel i…",
+    "description": "Ja, hvis du har vært ansatt i til sammen mer enn tolv måneder de siste tre årene. Retten gjelder fra oppsigelsen til ni måneder etter at ansettelsen…"
+   }
+  },
+  "url": "https://exploreworldai.com/vardagsjuridik/foretradesratt-ateranstallning",
+  "source_detail": {
+   "name": {
+    "en": "Swedish Employment Protection Act (1982:80)",
+    "sv": "Lag (1982:80) om anställningsskydd",
+    "no": "Svensk lov (1982:80) om stillingsvern"
+   },
+   "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-198280-om-anstallningsskydd_sfs-1982-80/",
+   "authority": {
+    "en": "Swedish Labour Court (Arbetsdomstolen)",
+    "sv": "Arbetsdomstolen",
+    "no": "Arbeidsretten i Sverige (Arbetsdomstolen)"
+   },
+   "authorityUrl": "https://www.arbetsdomstolen.se/"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "bestrida-uppsagning",
+  "path": "/vardagsjuridik/bestrida-uppsagning",
+  "track": "work",
+  "source": "las",
+  "law": {
+   "en": "Sections 8, 34 and 40",
+   "sv": "8, 34 och 40 §§",
+   "no": "§§ 8, 34 og 40"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "How do I challenge a dismissal I think is wrong?",
+    "answer": "You must notify the employer that you want the dismissal declared invalid no later than two weeks after you were dismissed. The dismissal must be in writing and explain how to challenge it; if it does not, the limit is one month from when the employment ended.",
+    "how": "If you are a union member, contact the union first. Since October 2022 the employment ends when the notice period runs out, even while the dispute continues.",
+    "object": "Challenging a dismissal",
+    "title": "How do I challenge a dismissal I think is wrong?",
+    "description": "You must notify the employer that you want the dismissal declared invalid no later than two weeks after you were dismissed. The dismissal must be in…"
+   },
+   "sv": {
+    "question": "Hur bestrider jag en uppsägning som jag anser är fel?",
+    "answer": "Du ska underrätta arbetsgivaren om att du vill få uppsägningen ogiltigförklarad senast två veckor efter att du sades upp. Uppsägningen ska vara skriftlig och ange hur du bestrider den, annars är fristen en månad från att anställningen upphörde.",
+    "how": "Är du medlem i ett fackförbund, kontakta facket först. Sedan oktober 2022 upphör anställningen när uppsägningstiden löpt ut, även medan tvisten pågår.",
+    "object": "Bestrida en uppsägning",
+    "title": "Hur bestrider jag en uppsägning som jag anser är fel?",
+    "description": "Du ska underrätta arbetsgivaren om att du vill få uppsägningen ogiltigförklarad senast två veckor efter att du sades upp. Uppsägningen ska vara…"
+   },
+   "no": {
+    "question": "Hvordan bestrider jeg en oppsigelse jeg mener er feil i Sverige?",
+    "answer": "Du må varsle arbeidsgiveren om at du vil få oppsigelsen kjent ugyldig, senest to uker etter at du ble sagt opp. Oppsigelsen skal være skriftlig og opplyse om hvordan du bestrider den, ellers er fristen én måned fra ansettelsen opphørte.",
+    "how": "Er du medlem av en fagforening, kontakt den først. Siden oktober 2022 opphører ansettelsen når oppsigelsestiden er ute, også mens tvisten pågår.",
+    "object": "Bestride en oppsigelse i Sverige",
+    "title": "Hvordan bestrider jeg en oppsigelse jeg mener er feil i…",
+    "description": "Du må varsle arbeidsgiveren om at du vil få oppsigelsen kjent ugyldig, senest to uker etter at du ble sagt opp. Oppsigelsen skal være skriftlig og…"
+   }
+  },
+  "url": "https://exploreworldai.com/vardagsjuridik/bestrida-uppsagning",
+  "source_detail": {
+   "name": {
+    "en": "Swedish Employment Protection Act (1982:80)",
+    "sv": "Lag (1982:80) om anställningsskydd",
+    "no": "Svensk lov (1982:80) om stillingsvern"
+   },
+   "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/lag-198280-om-anstallningsskydd_sfs-1982-80/",
+   "authority": {
+    "en": "Swedish Labour Court (Arbetsdomstolen)",
+    "sv": "Arbetsdomstolen",
+    "no": "Arbeidsretten i Sverige (Arbetsdomstolen)"
+   },
+   "authorityUrl": "https://www.arbetsdomstolen.se/"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "semester-vid-uppsagning",
+  "path": "/vardagsjuridik/semester-vid-uppsagning",
+  "track": "work",
+  "source": "semester",
+  "law": {
+   "en": "Sections 4 and 28",
+   "sv": "4 och 28 §§",
+   "no": "§§ 4 og 28"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "How many days of holiday do I have, and what happens when I leave?",
+    "answer": "Every employee in Sweden has a right to 25 days of annual leave a year. Holiday pay you have earned but not taken is paid out as holiday compensation when the employment ends.",
+    "how": "Holiday is earned during one year and taken the next, unless the employer uses another model. A collective agreement may give more days, never fewer.",
+    "object": "Annual leave and holiday compensation",
+    "title": "How many days of holiday do I have, and what happens when I…",
+    "description": "Every employee in Sweden has a right to 25 days of annual leave a year. Holiday pay you have earned but not taken is paid out as holiday compensation…"
+   },
+   "sv": {
+    "question": "Hur många semesterdagar har jag, och vad händer när jag slutar?",
+    "answer": "Alla anställda i Sverige har rätt till 25 semesterdagar om året. Semesterlön som du tjänat in men inte tagit ut betalas som semesterersättning när anställningen upphör.",
+    "how": "Semestern tjänas in under ett år och tas ut året därpå, om inte arbetsgivaren använder en annan modell. Ett kollektivavtal kan ge fler dagar, aldrig färre.",
+    "object": "Semester och semesterersättning",
+    "title": "Hur många semesterdagar har jag, och vad händer när jag…",
+    "description": "Alla anställda i Sverige har rätt till 25 semesterdagar om året. Semesterlön som du tjänat in men inte tagit ut betalas som semesterersättning när…"
+   },
+   "no": {
+    "question": "Hvor mange feriedager har jeg, og hva skjer når jeg slutter i Sverige?",
+    "answer": "Alle ansatte i Sverige har rett til 25 feriedager i året. Feriepenger du har opptjent, men ikke tatt ut, betales som feriegodtgjørelse når ansettelsen opphører.",
+    "how": "Ferien opptjenes i ett år og tas ut året etter, med mindre arbeidsgiveren bruker en annen modell. En tariffavtale kan gi flere dager, aldri færre.",
+    "object": "Ferie og feriegodtgjørelse i Sverige",
+    "title": "Hvor mange feriedager har jeg, og hva skjer når jeg slutter…",
+    "description": "Alle ansatte i Sverige har rett til 25 feriedager i året. Feriepenger du har opptjent, men ikke tatt ut, betales som feriegodtgjørelse når ansettelsen…"
+   }
+  },
+  "url": "https://exploreworldai.com/vardagsjuridik/semester-vid-uppsagning",
+  "source_detail": {
+   "name": {
+    "en": "Swedish Annual Leave Act (1977:480)",
+    "sv": "Semesterlag (1977:480)",
+    "no": "Svensk ferielov (1977:480)"
+   },
+   "url": "https://www.riksdagen.se/sv/dokument-och-lagar/dokument/svensk-forfattningssamling/semesterlag-1977480_sfs-1977-480/",
+   "authority": {
+    "en": "Swedish Labour Court (Arbetsdomstolen)",
+    "sv": "Arbetsdomstolen",
+    "no": "Arbeidsretten i Sverige (Arbetsdomstolen)"
+   },
+   "authorityUrl": "https://www.arbetsdomstolen.se/"
+  },
+  "reviewed": "2026-10-02"
+ }
+]
