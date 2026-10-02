@@ -1,0 +1,1793 @@
+[
+ {
+  "slug": "eu261-vem-omfattas",
+  "path": "/resenar/eu261-vem-omfattas",
+  "track": "flight",
+  "source": "r261",
+  "law": {
+   "en": "Article 3",
+   "sv": "Artikel 3",
+   "no": "Artikkel 3"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "Which flights are covered by EU 261?",
+    "answer": "The rules cover every flight departing from an airport in the EU, whatever the airline. They also cover flights from outside the EU to an EU airport when the airline is licensed in the EU.",
+    "how": "Iceland, Norway and Switzerland apply the same rules. A flight from New York to Stockholm on a US airline is not covered, while the same route on an EU airline is.",
+    "object": "Flight departing from the EU, or arriving in the EU on an EU airline",
+    "title": "Which flights are covered by EU 261?",
+    "description": "The rules cover every flight departing from an airport in the EU, whatever the airline. They also cover flights from outside the EU to an EU airport…"
+   },
+   "sv": {
+    "question": "Vilka flyg omfattas av EU 261?",
+    "answer": "Reglerna gäller alla flyg som avgår från en flygplats i EU, oavsett flygbolag. De gäller också flyg utanför EU till en flygplats i EU när flygbolaget har sin licens i EU.",
+    "how": "Island, Norge och Schweiz tillämpar samma regler. Ett flyg från New York till Stockholm med ett amerikanskt bolag omfattas inte, men samma sträcka med ett EU-bolag gör det.",
+    "object": "Flyg som avgår från EU, eller landar i EU med ett EU-flygbolag",
+    "title": "Vilka flyg omfattas av EU 261?",
+    "description": "Reglerna gäller alla flyg som avgår från en flygplats i EU, oavsett flygbolag. De gäller också flyg utanför EU till en flygplats i EU när flygbolaget…"
+   },
+   "no": {
+    "question": "Hvilke fly omfattes av EU 261?",
+    "answer": "Reglene gjelder alle fly som går fra en flyplass i EU, uansett flyselskap. De gjelder også fly fra land utenfor EU til en flyplass i EU når flyselskapet har lisens i EU.",
+    "how": "Island, Norge og Sveits bruker de samme reglene. Et fly fra New York til Oslo med et amerikansk selskap omfattes ikke, men samme strekning med et EU-selskap gjør det.",
+    "object": "Fly som går fra EU, eller lander i EU med et EU-flyselskap",
+    "title": "Hvilke fly omfattes av EU 261?",
+    "description": "Reglene gjelder alle fly som går fra en flyplass i EU, uansett flyselskap. De gjelder også fly fra land utenfor EU til en flyplass i EU når…"
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/eu261-vem-omfattas",
+  "source_detail": {
+   "name": {
+    "en": "Regulation (EC) No 261/2004 on air passenger rights",
+    "sv": "Förordning (EG) nr 261/2004 om flygpassagerares rättigheter",
+    "no": "Forordning (EF) nr. 261/2004 om flypassasjerers rettigheter"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/2004/261/oj",
+   "authority": {
+    "en": "European Commission, Your Europe: air passenger rights",
+    "sv": "Europeiska kommissionen, Your Europe: flygpassagerares rättigheter",
+    "no": "Europakommisjonen, Your Europe: flypassasjerers rettigheter"
+   },
+   "authorityUrl": "https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm",
+   "celex": "32004R0261"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "ersattning-belopp",
+  "path": "/resenar/ersattning-belopp",
+  "track": "flight",
+  "source": "r261",
+  "law": {
+   "en": "Article 7(1) and 7(2)",
+   "sv": "Artikel 7.1 och 7.2",
+   "no": "Artikkel 7 nr. 1 og 2"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "How much compensation do I get under EU 261?",
+    "answer": "Compensation is 250 euro for flights up to 1,500 km, 400 euro for flights within the EU over 1,500 km and other flights of 1,500 to 3,500 km, and 600 euro for all other flights. The amount is per passenger and does not depend on the ticket price.",
+    "how": "The amount may be cut by half if the airline offers another flight that arrives no more than two, three or four hours late, depending on distance. Distance is measured as the great circle distance to the final destination.",
+    "object": "Fixed compensation per passenger, by distance",
+    "title": "How much compensation do I get under EU 261?",
+    "description": "Compensation is 250 euro for flights up to 1,500 km, 400 euro for flights within the EU over 1,500 km and other flights of 1,500 to 3,500 km, and 600…"
+   },
+   "sv": {
+    "question": "Hur mycket ersättning får jag enligt EU 261?",
+    "answer": "Ersättningen är 250 euro för flyg upp till 1 500 km, 400 euro för flyg inom EU över 1 500 km och andra flyg på 1 500 till 3 500 km, och 600 euro för alla andra flyg. Beloppet gäller per passagerare och beror inte på biljettpriset.",
+    "how": "Beloppet kan halveras om flygbolaget erbjuder ett annat flyg som kommer fram högst två, tre eller fyra timmar senare, beroende på avståndet. Avståndet räknas fågelvägen till slutmålet.",
+    "object": "Fast ersättning per passagerare, efter avstånd",
+    "title": "Hur mycket ersättning får jag enligt EU 261?",
+    "description": "Ersättningen är 250 euro för flyg upp till 1 500 km, 400 euro för flyg inom EU över 1 500 km och andra flyg på 1 500 till 3 500 km, och 600 euro för…"
+   },
+   "no": {
+    "question": "Hvor mye kompensasjon får jeg etter EU 261?",
+    "answer": "Kompensasjonen er 250 euro for fly opptil 1 500 km, 400 euro for fly innen EU over 1 500 km og andre fly på 1 500 til 3 500 km, og 600 euro for alle andre fly. Beløpet gjelder per passasjer og avhenger ikke av billettprisen.",
+    "how": "Beløpet kan halveres hvis flyselskapet tilbyr et annet fly som kommer fram høyst to, tre eller fire timer senere, avhengig av avstanden. Avstanden regnes i luftlinje til sluttdestinasjonen.",
+    "object": "Fast kompensasjon per passasjer, etter avstand",
+    "title": "Hvor mye kompensasjon får jeg etter EU 261?",
+    "description": "Kompensasjonen er 250 euro for fly opptil 1 500 km, 400 euro for fly innen EU over 1 500 km og andre fly på 1 500 til 3 500 km, og 600 euro for alle…"
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/ersattning-belopp",
+  "source_detail": {
+   "name": {
+    "en": "Regulation (EC) No 261/2004 on air passenger rights",
+    "sv": "Förordning (EG) nr 261/2004 om flygpassagerares rättigheter",
+    "no": "Forordning (EF) nr. 261/2004 om flypassasjerers rettigheter"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/2004/261/oj",
+   "authority": {
+    "en": "European Commission, Your Europe: air passenger rights",
+    "sv": "Europeiska kommissionen, Your Europe: flygpassagerares rättigheter",
+    "no": "Europakommisjonen, Your Europe: flypassasjerers rettigheter"
+   },
+   "authorityUrl": "https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm",
+   "celex": "32004R0261"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "forsenat-flyg-ersattning",
+  "path": "/resenar/forsenat-flyg-ersattning",
+  "track": "flight",
+  "source": "r261",
+  "law": {
+   "en": "Articles 6 and 7",
+   "sv": "Artiklarna 6 och 7",
+   "no": "Artikkel 6 og 7"
+  },
+  "cases": [
+   "sturgeon",
+   "nelson"
+  ],
+  "copy": {
+   "en": {
+    "question": "Do I get compensation for a delayed flight?",
+    "answer": "Yes, if you arrive at your final destination three hours or more late, unless the airline shows extraordinary circumstances. The right comes from the Court of Justice's reading of the Regulation, not from its literal wording.",
+    "how": "Delays of two hours or more also give a right to meals and, when needed, a hotel. From five hours you may cancel the trip and get your money back.",
+    "object": "Flight arriving three hours or more late",
+    "title": "Do I get compensation for a delayed flight?",
+    "description": "Yes, if you arrive at your final destination three hours or more late, unless the airline shows extraordinary circumstances. The right comes from the…"
+   },
+   "sv": {
+    "question": "Får jag ersättning för ett försenat flyg?",
+    "answer": "Ja, om du kommer fram till slutmålet tre timmar eller mer försenad, om inte flygbolaget visar att det rör sig om extraordinära omständigheter. Rätten kommer ur EU-domstolens tolkning av förordningen, inte ur dess ordalydelse.",
+    "how": "Förseningar på två timmar eller mer ger också rätt till mat och vid behov hotell. Från fem timmar får du avstå resan och få pengarna tillbaka.",
+    "object": "Flyg som kommer fram tre timmar eller mer försenat",
+    "title": "Får jag ersättning för ett försenat flyg?",
+    "description": "Ja, om du kommer fram till slutmålet tre timmar eller mer försenad, om inte flygbolaget visar att det rör sig om extraordinära omständigheter. Rätten…"
+   },
+   "no": {
+    "question": "Får jeg kompensasjon for et forsinket fly?",
+    "answer": "Ja, hvis du kommer fram til sluttdestinasjonen tre timer eller mer forsinket, med mindre flyselskapet viser at det skyldes ekstraordinære omstendigheter. Retten kommer fra EU-domstolens tolkning av forordningen, ikke fra ordlyden.",
+    "how": "Forsinkelser på to timer eller mer gir også rett til mat og ved behov hotell. Fra fem timer kan du avstå reisen og få pengene tilbake.",
+    "object": "Fly som ankommer tre timer eller mer forsinket",
+    "title": "Får jeg kompensasjon for et forsinket fly?",
+    "description": "Ja, hvis du kommer fram til sluttdestinasjonen tre timer eller mer forsinket, med mindre flyselskapet viser at det skyldes ekstraordinære…"
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/forsenat-flyg-ersattning",
+  "source_detail": {
+   "name": {
+    "en": "Regulation (EC) No 261/2004 on air passenger rights",
+    "sv": "Förordning (EG) nr 261/2004 om flygpassagerares rättigheter",
+    "no": "Forordning (EF) nr. 261/2004 om flypassasjerers rettigheter"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/2004/261/oj",
+   "authority": {
+    "en": "European Commission, Your Europe: air passenger rights",
+    "sv": "Europeiska kommissionen, Your Europe: flygpassagerares rättigheter",
+    "no": "Europakommisjonen, Your Europe: flypassasjerers rettigheter"
+   },
+   "authorityUrl": "https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm",
+   "celex": "32004R0261"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "forsening-ankomsttid",
+  "path": "/resenar/forsening-ankomsttid",
+  "track": "flight",
+  "source": "r261",
+  "law": {
+   "en": "Articles 2 and 7",
+   "sv": "Artiklarna 2 och 7",
+   "no": "Artikkel 2 og 7"
+  },
+  "cases": [
+   "germanwings"
+  ],
+  "copy": {
+   "en": {
+    "question": "When does a flight count as arrived?",
+    "answer": "A flight counts as arrived when at least one aircraft door opens and passengers may leave. Touchdown on the runway is not the arrival time.",
+    "how": "This matters when the delay is close to three hours. Time spent taxiing and waiting at the gate counts towards the delay.",
+    "object": "Arrival time for measuring a delay",
+    "title": "When does a flight count as arrived?",
+    "description": "A flight counts as arrived when at least one aircraft door opens and passengers may leave. Touchdown on the runway is not the arrival time."
+   },
+   "sv": {
+    "question": "När räknas ett flyg som framme?",
+    "answer": "Ett flyg räknas som framme när minst en av flygplanets dörrar öppnas och passagerarna får gå av. Att planet sätter ned på banan är inte ankomsttiden.",
+    "how": "Det spelar roll när förseningen ligger nära tre timmar. Tid för taxning och väntan vid gaten räknas in i förseningen.",
+    "object": "Ankomsttid för att mäta en försening",
+    "title": "När räknas ett flyg som framme?",
+    "description": "Ett flyg räknas som framme när minst en av flygplanets dörrar öppnas och passagerarna får gå av. Att planet sätter ned på banan är inte ankomsttiden."
+   },
+   "no": {
+    "question": "Når regnes et fly som ankommet?",
+    "answer": "Et fly regnes som ankommet når minst én av flyets dører åpnes og passasjerene kan gå av. At flyet lander på rullebanen, er ikke ankomsttiden.",
+    "how": "Det betyr noe når forsinkelsen ligger nær tre timer. Tid til taksing og venting ved gaten regnes med i forsinkelsen.",
+    "object": "Ankomsttid for å måle en forsinkelse",
+    "title": "Når regnes et fly som ankommet?",
+    "description": "Et fly regnes som ankommet når minst én av flyets dører åpnes og passasjerene kan gå av. At flyet lander på rullebanen, er ikke ankomsttiden."
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/forsening-ankomsttid",
+  "source_detail": {
+   "name": {
+    "en": "Regulation (EC) No 261/2004 on air passenger rights",
+    "sv": "Förordning (EG) nr 261/2004 om flygpassagerares rättigheter",
+    "no": "Forordning (EF) nr. 261/2004 om flypassasjerers rettigheter"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/2004/261/oj",
+   "authority": {
+    "en": "European Commission, Your Europe: air passenger rights",
+    "sv": "Europeiska kommissionen, Your Europe: flygpassagerares rättigheter",
+    "no": "Europakommisjonen, Your Europe: flypassasjerers rettigheter"
+   },
+   "authorityUrl": "https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm",
+   "celex": "32004R0261"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "installt-flyg-ersattning",
+  "path": "/resenar/installt-flyg-ersattning",
+  "track": "flight",
+  "source": "r261",
+  "law": {
+   "en": "Article 5",
+   "sv": "Artikel 5",
+   "no": "Artikkel 5"
+  },
+  "cases": [
+   "sousa-rodriguez"
+  ],
+  "copy": {
+   "en": {
+    "question": "What are my rights when my flight is cancelled?",
+    "answer": "You choose between a refund and another flight to your destination, and you have a right to meals and, when needed, a hotel while you wait. You also get fixed compensation unless you were told in time or the airline shows extraordinary circumstances.",
+    "how": "A flight that takes off but returns to the departure airport, with passengers moved to other flights, can count as cancelled. The airline must explain your rights in writing.",
+    "object": "Cancelled flight",
+    "title": "What are my rights when my flight is cancelled?",
+    "description": "You choose between a refund and another flight to your destination, and you have a right to meals and, when needed, a hotel while you wait. You also…"
+   },
+   "sv": {
+    "question": "Vilka rättigheter har jag när flyget ställs in?",
+    "answer": "Du väljer mellan pengarna tillbaka och ett annat flyg till resmålet, och du har rätt till mat och vid behov hotell medan du väntar. Du får också fast ersättning om du inte informerats i tid eller flygbolaget visar extraordinära omständigheter.",
+    "how": "Ett flyg som lyfter men återvänder till avgångsflygplatsen, där passagerarna flyttas till andra flyg, kan räknas som inställt. Flygbolaget ska förklara dina rättigheter skriftligt.",
+    "object": "Inställt flyg",
+    "title": "Vilka rättigheter har jag när flyget ställs in?",
+    "description": "Du väljer mellan pengarna tillbaka och ett annat flyg till resmålet, och du har rätt till mat och vid behov hotell medan du väntar. Du får också fast…"
+   },
+   "no": {
+    "question": "Hvilke rettigheter har jeg når flyet kanselleres?",
+    "answer": "Du velger mellom pengene tilbake og et annet fly til reisemålet, og du har rett til mat og ved behov hotell mens du venter. Du får også fast kompensasjon hvis du ikke ble varslet i tide eller flyselskapet viser ekstraordinære omstendigheter.",
+    "how": "Et fly som letter men returnerer til avgangsflyplassen, der passasjerene flyttes til andre fly, kan regnes som kansellert. Flyselskapet skal forklare rettighetene dine skriftlig.",
+    "object": "Kansellert fly",
+    "title": "Hvilke rettigheter har jeg når flyet kanselleres?",
+    "description": "Du velger mellom pengene tilbake og et annet fly til reisemålet, og du har rett til mat og ved behov hotell mens du venter. Du får også fast…"
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/installt-flyg-ersattning",
+  "source_detail": {
+   "name": {
+    "en": "Regulation (EC) No 261/2004 on air passenger rights",
+    "sv": "Förordning (EG) nr 261/2004 om flygpassagerares rättigheter",
+    "no": "Forordning (EF) nr. 261/2004 om flypassasjerers rettigheter"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/2004/261/oj",
+   "authority": {
+    "en": "European Commission, Your Europe: air passenger rights",
+    "sv": "Europeiska kommissionen, Your Europe: flygpassagerares rättigheter",
+    "no": "Europakommisjonen, Your Europe: flypassasjerers rettigheter"
+   },
+   "authorityUrl": "https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm",
+   "celex": "32004R0261"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "installt-14-dagar",
+  "path": "/resenar/installt-14-dagar",
+  "track": "flight",
+  "source": "r261",
+  "law": {
+   "en": "Article 5(1)(c)",
+   "sv": "Artikel 5.1 c",
+   "no": "Artikkel 5 nr. 1 bokstav c"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "Do I get compensation if the airline cancels two weeks before?",
+    "answer": "No. If you are told at least 14 days before departure, there is no compensation, though you keep the right to a refund or another flight. Notice between 7 and 14 days, or under 7 days, only removes compensation if the new flight is close to the original times.",
+    "how": "With 7 to 14 days notice the new flight may leave at most two hours earlier and arrive at most four hours later. With under 7 days notice the limits are one hour earlier and two hours later.",
+    "object": "Cancellation with advance notice",
+    "title": "Do I get compensation if the airline cancels two weeks…",
+    "description": "No. If you are told at least 14 days before departure, there is no compensation, though you keep the right to a refund or another flight. Notice…"
+   },
+   "sv": {
+    "question": "Får jag ersättning om flygbolaget ställer in två veckor innan?",
+    "answer": "Nej. Får du besked minst 14 dagar före avgång blir det ingen ersättning, men du behåller rätten till pengarna tillbaka eller ett annat flyg. Besked mellan 7 och 14 dagar, eller under 7 dagar, tar bara bort ersättningen om det nya flyget ligger nära de ursprungliga tiderna.",
+    "how": "Vid 7 till 14 dagars varsel får det nya flyget avgå högst två timmar tidigare och komma fram högst fyra timmar senare. Vid under 7 dagar är gränserna en timme tidigare och två timmar senare.",
+    "object": "Inställt flyg med förvarning",
+    "title": "Får jag ersättning om flygbolaget ställer in två veckor…",
+    "description": "Nej. Får du besked minst 14 dagar före avgång blir det ingen ersättning, men du behåller rätten till pengarna tillbaka eller ett annat flyg. Besked…"
+   },
+   "no": {
+    "question": "Får jeg kompensasjon hvis flyselskapet kansellerer to uker før?",
+    "answer": "Nei. Får du beskjed minst 14 dager før avgang, blir det ingen kompensasjon, men du beholder retten til pengene tilbake eller et annet fly. Varsel mellom 7 og 14 dager, eller under 7 dager, fjerner bare kompensasjonen hvis det nye flyet ligger nær de opprinnelige tidene.",
+    "how": "Ved 7 til 14 dagers varsel kan det nye flyet gå høyst to timer tidligere og komme fram høyst fire timer senere. Ved under 7 dager er grensene én time tidligere og to timer senere.",
+    "object": "Kansellert fly med forhåndsvarsel",
+    "title": "Får jeg kompensasjon hvis flyselskapet kansellerer to uker…",
+    "description": "Nei. Får du beskjed minst 14 dager før avgang, blir det ingen kompensasjon, men du beholder retten til pengene tilbake eller et annet fly. Varsel…"
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/installt-14-dagar",
+  "source_detail": {
+   "name": {
+    "en": "Regulation (EC) No 261/2004 on air passenger rights",
+    "sv": "Förordning (EG) nr 261/2004 om flygpassagerares rättigheter",
+    "no": "Forordning (EF) nr. 261/2004 om flypassasjerers rettigheter"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/2004/261/oj",
+   "authority": {
+    "en": "European Commission, Your Europe: air passenger rights",
+    "sv": "Europeiska kommissionen, Your Europe: flygpassagerares rättigheter",
+    "no": "Europakommisjonen, Your Europe: flypassasjerers rettigheter"
+   },
+   "authorityUrl": "https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm",
+   "celex": "32004R0261"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "nekad-ombordstigning",
+  "path": "/resenar/nekad-ombordstigning",
+  "track": "flight",
+  "source": "r261",
+  "law": {
+   "en": "Article 4",
+   "sv": "Artikel 4",
+   "no": "Artikkel 4"
+  },
+  "cases": [
+   "finnair-lassooy"
+  ],
+  "copy": {
+   "en": {
+    "question": "What if I am denied boarding because the flight is overbooked?",
+    "answer": "If you are denied boarding against your will, you get the same compensation as for a cancelled flight, a choice between refund and another flight, and meals and a hotel when needed. The airline must first ask for volunteers.",
+    "how": "Volunteers agree benefits with the airline and keep the right to a refund or another flight. Denial for reasons such as missing travel documents or safety is not covered.",
+    "object": "Denied boarding against the passenger's will",
+    "title": "What if I am denied boarding because the flight is…",
+    "description": "If you are denied boarding against your will, you get the same compensation as for a cancelled flight, a choice between refund and another flight, and…"
+   },
+   "sv": {
+    "question": "Vad gäller om jag nekas ombordstigning för att flyget är överbokat?",
+    "answer": "Nekas du ombordstigning mot din vilja får du samma ersättning som vid ett inställt flyg, ett val mellan pengarna tillbaka och ett annat flyg, samt mat och hotell vid behov. Flygbolaget ska först fråga efter frivilliga.",
+    "how": "Frivilliga kommer överens med flygbolaget om förmåner och behåller rätten till pengarna tillbaka eller ett annat flyg. Nekad ombordstigning på grund av till exempel saknade resehandlingar eller säkerhet omfattas inte.",
+    "object": "Nekad ombordstigning mot passagerarens vilja",
+    "title": "Vad gäller om jag nekas ombordstigning för att flyget är…",
+    "description": "Nekas du ombordstigning mot din vilja får du samma ersättning som vid ett inställt flyg, ett val mellan pengarna tillbaka och ett annat flyg, samt mat…"
+   },
+   "no": {
+    "question": "Hva gjelder hvis jeg nektes ombordstigning fordi flyet er overbooket?",
+    "answer": "Nektes du ombordstigning mot din vilje, får du samme kompensasjon som ved et kansellert fly, et valg mellom pengene tilbake og et annet fly, og mat og hotell ved behov. Flyselskapet skal først spørre etter frivillige.",
+    "how": "Frivillige avtaler fordeler med flyselskapet og beholder retten til pengene tilbake eller et annet fly. Nektet ombordstigning på grunn av for eksempel manglende reisedokumenter eller sikkerhet omfattes ikke.",
+    "object": "Nektet ombordstigning mot passasjerens vilje",
+    "title": "Hva gjelder hvis jeg nektes ombordstigning fordi flyet er…",
+    "description": "Nektes du ombordstigning mot din vilje, får du samme kompensasjon som ved et kansellert fly, et valg mellom pengene tilbake og et annet fly, og mat og…"
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/nekad-ombordstigning",
+  "source_detail": {
+   "name": {
+    "en": "Regulation (EC) No 261/2004 on air passenger rights",
+    "sv": "Förordning (EG) nr 261/2004 om flygpassagerares rättigheter",
+    "no": "Forordning (EF) nr. 261/2004 om flypassasjerers rettigheter"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/2004/261/oj",
+   "authority": {
+    "en": "European Commission, Your Europe: air passenger rights",
+    "sv": "Europeiska kommissionen, Your Europe: flygpassagerares rättigheter",
+    "no": "Europakommisjonen, Your Europe: flypassasjerers rettigheter"
+   },
+   "authorityUrl": "https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm",
+   "celex": "32004R0261"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "extraordinara-omstandigheter-teknik",
+  "path": "/resenar/extraordinara-omstandigheter-teknik",
+  "track": "flight",
+  "source": "r261",
+  "law": {
+   "en": "Article 5(3) and recital 14",
+   "sv": "Artikel 5.3 och skäl 14",
+   "no": "Artikkel 5 nr. 3 og fortalen punkt 14"
+  },
+  "cases": [
+   "wallentin-hermann",
+   "van-der-lans"
+  ],
+  "copy": {
+   "en": {
+    "question": "Is a technical fault an extraordinary circumstance?",
+    "answer": "As a rule, no. Technical problems that come from the normal operation of the aircraft are the airline's risk, so compensation is still owed.",
+    "how": "A hidden manufacturing defect announced by the manufacturer or an authority, or damage caused by sabotage, can be extraordinary. The airline carries the burden of proof.",
+    "object": "Technical fault as a reason for delay or cancellation",
+    "title": "Is a technical fault an extraordinary circumstance?",
+    "description": "As a rule, no. Technical problems that come from the normal operation of the aircraft are the airline's risk, so compensation is still owed."
+   },
+   "sv": {
+    "question": "Är ett tekniskt fel en extraordinär omständighet?",
+    "answer": "Som huvudregel nej. Tekniska problem som hör till flygplanets normala drift är flygbolagets risk, så ersättning ska ändå betalas.",
+    "how": "Ett dolt tillverkningsfel som tillverkaren eller en myndighet gått ut med, eller skada genom sabotage, kan vara extraordinärt. Flygbolaget har bevisbördan.",
+    "object": "Tekniskt fel som orsak till försening eller inställt flyg",
+    "title": "Är ett tekniskt fel en extraordinär omständighet?",
+    "description": "Som huvudregel nej. Tekniska problem som hör till flygplanets normala drift är flygbolagets risk, så ersättning ska ändå betalas."
+   },
+   "no": {
+    "question": "Er en teknisk feil en ekstraordinær omstendighet?",
+    "answer": "Som hovedregel nei. Tekniske problemer som hører til flyets normale drift, er flyselskapets risiko, så kompensasjon skal likevel betales.",
+    "how": "En skjult produksjonsfeil som produsenten eller en myndighet har varslet om, eller skade ved sabotasje, kan være ekstraordinært. Flyselskapet har bevisbyrden.",
+    "object": "Teknisk feil som årsak til forsinkelse eller kansellering",
+    "title": "Er en teknisk feil en ekstraordinær omstendighet?",
+    "description": "Som hovedregel nei. Tekniske problemer som hører til flyets normale drift, er flyselskapets risiko, så kompensasjon skal likevel betales."
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/extraordinara-omstandigheter-teknik",
+  "source_detail": {
+   "name": {
+    "en": "Regulation (EC) No 261/2004 on air passenger rights",
+    "sv": "Förordning (EG) nr 261/2004 om flygpassagerares rättigheter",
+    "no": "Forordning (EF) nr. 261/2004 om flypassasjerers rettigheter"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/2004/261/oj",
+   "authority": {
+    "en": "European Commission, Your Europe: air passenger rights",
+    "sv": "Europeiska kommissionen, Your Europe: flygpassagerares rättigheter",
+    "no": "Europakommisjonen, Your Europe: flypassasjerers rettigheter"
+   },
+   "authorityUrl": "https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm",
+   "celex": "32004R0261"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "strejk-flyg",
+  "path": "/resenar/strejk-flyg",
+  "track": "flight",
+  "source": "r261",
+  "law": {
+   "en": "Article 5(3)",
+   "sv": "Artikel 5.3",
+   "no": "Artikkel 5 nr. 3"
+  },
+  "cases": [
+   "krusemann",
+   "airhelp-sas"
+  ],
+  "copy": {
+   "en": {
+    "question": "Do I get compensation if my flight is cancelled because of a strike?",
+    "answer": "If the strike is by the airline's own staff, usually yes, because the Court of Justice treats it as part of the airline's normal activity. Strikes outside the airline, such as air traffic control, can be extraordinary circumstances.",
+    "how": "The right to meals, a hotel and a choice between refund and another flight applies whatever the cause. Compensation is the part that depends on whether the strike counts as extraordinary.",
+    "object": "Strike as a reason for cancellation or delay",
+    "title": "Do I get compensation if my flight is cancelled because of…",
+    "description": "If the strike is by the airline's own staff, usually yes, because the Court of Justice treats it as part of the airline's normal activity. Strikes…"
+   },
+   "sv": {
+    "question": "Får jag ersättning om flyget ställs in på grund av strejk?",
+    "answer": "Strejkar flygbolagets egen personal blir svaret oftast ja, eftersom EU-domstolen ser det som en del av flygbolagets normala verksamhet. Strejker utanför bolaget, till exempel flygledare, kan vara extraordinära omständigheter.",
+    "how": "Rätten till mat, hotell och val mellan pengarna tillbaka och ett annat flyg gäller oavsett orsak. Det är ersättningen som beror på om strejken räknas som extraordinär.",
+    "object": "Strejk som orsak till inställt eller försenat flyg",
+    "title": "Får jag ersättning om flyget ställs in på grund av strejk?",
+    "description": "Strejkar flygbolagets egen personal blir svaret oftast ja, eftersom EU-domstolen ser det som en del av flygbolagets normala verksamhet. Strejker…"
+   },
+   "no": {
+    "question": "Får jeg kompensasjon hvis flyet kanselleres på grunn av streik?",
+    "answer": "Streiker flyselskapets egne ansatte, blir svaret oftest ja, fordi EU-domstolen ser det som en del av flyselskapets normale virksomhet. Streik utenfor selskapet, for eksempel flygeledere, kan være ekstraordinære omstendigheter.",
+    "how": "Retten til mat, hotell og valg mellom pengene tilbake og et annet fly gjelder uansett årsak. Det er kompensasjonen som avhenger av om streiken regnes som ekstraordinær.",
+    "object": "Streik som årsak til kansellering eller forsinkelse",
+    "title": "Får jeg kompensasjon hvis flyet kanselleres på grunn av…",
+    "description": "Streiker flyselskapets egne ansatte, blir svaret oftest ja, fordi EU-domstolen ser det som en del av flyselskapets normale virksomhet. Streik utenfor…"
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/strejk-flyg",
+  "source_detail": {
+   "name": {
+    "en": "Regulation (EC) No 261/2004 on air passenger rights",
+    "sv": "Förordning (EG) nr 261/2004 om flygpassagerares rättigheter",
+    "no": "Forordning (EF) nr. 261/2004 om flypassasjerers rettigheter"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/2004/261/oj",
+   "authority": {
+    "en": "European Commission, Your Europe: air passenger rights",
+    "sv": "Europeiska kommissionen, Your Europe: flygpassagerares rättigheter",
+    "no": "Europakommisjonen, Your Europe: flypassasjerers rettigheter"
+   },
+   "authorityUrl": "https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm",
+   "celex": "32004R0261"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "fagelkollision",
+  "path": "/resenar/fagelkollision",
+  "track": "flight",
+  "source": "r261",
+  "law": {
+   "en": "Article 5(3)",
+   "sv": "Artikel 5.3",
+   "no": "Artikkel 5 nr. 3"
+  },
+  "cases": [
+   "pescova"
+  ],
+  "copy": {
+   "en": {
+    "question": "Is a bird strike an extraordinary circumstance?",
+    "answer": "Yes, a collision between an aircraft and a bird counts as an extraordinary circumstance. The airline must still show it took all reasonable measures to limit the delay.",
+    "how": "Time lost on unnecessary extra checks after the bird strike may still count against the airline. Meals and a hotel are owed regardless.",
+    "object": "Bird strike as a reason for delay",
+    "title": "Is a bird strike an extraordinary circumstance?",
+    "description": "Yes, a collision between an aircraft and a bird counts as an extraordinary circumstance. The airline must still show it took all reasonable measures to…"
+   },
+   "sv": {
+    "question": "Är en fågelkollision en extraordinär omständighet?",
+    "answer": "Ja, en kollision mellan flygplan och fågel räknas som en extraordinär omständighet. Flygbolaget måste ändå visa att det vidtog alla rimliga åtgärder för att begränsa förseningen.",
+    "how": "Tid som går förlorad på onödiga extra kontroller efter kollisionen kan ändå räknas mot flygbolaget. Mat och hotell ska ges oavsett.",
+    "object": "Fågelkollision som orsak till försening",
+    "title": "Är en fågelkollision en extraordinär omständighet?",
+    "description": "Ja, en kollision mellan flygplan och fågel räknas som en extraordinär omständighet. Flygbolaget måste ändå visa att det vidtog alla rimliga åtgärder…"
+   },
+   "no": {
+    "question": "Er en fuglekollisjon en ekstraordinær omstendighet?",
+    "answer": "Ja, en kollisjon mellom fly og fugl regnes som en ekstraordinær omstendighet. Flyselskapet må likevel vise at det traff alle rimelige tiltak for å begrense forsinkelsen.",
+    "how": "Tid som går tapt på unødvendige ekstra kontroller etter kollisjonen, kan likevel regnes mot flyselskapet. Mat og hotell skal gis uansett.",
+    "object": "Fuglekollisjon som årsak til forsinkelse",
+    "title": "Er en fuglekollisjon en ekstraordinær omstendighet?",
+    "description": "Ja, en kollisjon mellom fly og fugl regnes som en ekstraordinær omstendighet. Flyselskapet må likevel vise at det traff alle rimelige tiltak for å…"
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/fagelkollision",
+  "source_detail": {
+   "name": {
+    "en": "Regulation (EC) No 261/2004 on air passenger rights",
+    "sv": "Förordning (EG) nr 261/2004 om flygpassagerares rättigheter",
+    "no": "Forordning (EF) nr. 261/2004 om flypassasjerers rettigheter"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/2004/261/oj",
+   "authority": {
+    "en": "European Commission, Your Europe: air passenger rights",
+    "sv": "Europeiska kommissionen, Your Europe: flygpassagerares rättigheter",
+    "no": "Europakommisjonen, Your Europe: flypassasjerers rettigheter"
+   },
+   "authorityUrl": "https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm",
+   "celex": "32004R0261"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "ratt-till-mat-hotell",
+  "path": "/resenar/ratt-till-mat-hotell",
+  "track": "flight",
+  "source": "r261",
+  "law": {
+   "en": "Article 9",
+   "sv": "Artikel 9",
+   "no": "Artikkel 9"
+  },
+  "cases": [
+   "mcdonagh"
+  ],
+  "copy": {
+   "en": {
+    "question": "Does the airline have to give me food and a hotel while I wait?",
+    "answer": "Yes. During long delays, cancellations and denied boarding the airline must offer meals and refreshments, two phone calls or emails and, when an overnight stay is needed, a hotel and transport to it.",
+    "how": "The duty also applies in extraordinary circumstances and has no time or money cap. Keep receipts if you pay yourself because the airline did not offer care.",
+    "object": "Care while waiting at the airport",
+    "title": "Does the airline have to give me food and a hotel while I…",
+    "description": "Yes. During long delays, cancellations and denied boarding the airline must offer meals and refreshments, two phone calls or emails and, when an…"
+   },
+   "sv": {
+    "question": "Måste flygbolaget ge mig mat och hotell medan jag väntar?",
+    "answer": "Ja. Vid långa förseningar, inställda flyg och nekad ombordstigning ska flygbolaget erbjuda måltider och förfriskningar, två telefonsamtal eller mejl och, när en övernattning behövs, hotell och transport dit.",
+    "how": "Skyldigheten gäller även vid extraordinära omständigheter och har inget tak i tid eller belopp. Spara kvitton om du betalar själv för att flygbolaget inte erbjöd hjälp.",
+    "object": "Hjälp under väntan på flygplatsen",
+    "title": "Måste flygbolaget ge mig mat och hotell medan jag väntar?",
+    "description": "Ja. Vid långa förseningar, inställda flyg och nekad ombordstigning ska flygbolaget erbjuda måltider och förfriskningar, två telefonsamtal eller mejl…"
+   },
+   "no": {
+    "question": "Må flyselskapet gi meg mat og hotell mens jeg venter?",
+    "answer": "Ja. Ved lange forsinkelser, kanselleringer og nektet ombordstigning skal flyselskapet tilby måltider og forfriskninger, to telefonsamtaler eller e-poster og, når en overnatting trengs, hotell og transport dit.",
+    "how": "Plikten gjelder også ved ekstraordinære omstendigheter og har ikke noe tak i tid eller beløp. Ta vare på kvitteringer hvis du betaler selv fordi flyselskapet ikke tilbød hjelp.",
+    "object": "Hjelp under venting på flyplassen",
+    "title": "Må flyselskapet gi meg mat og hotell mens jeg venter?",
+    "description": "Ja. Ved lange forsinkelser, kanselleringer og nektet ombordstigning skal flyselskapet tilby måltider og forfriskninger, to telefonsamtaler eller…"
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/ratt-till-mat-hotell",
+  "source_detail": {
+   "name": {
+    "en": "Regulation (EC) No 261/2004 on air passenger rights",
+    "sv": "Förordning (EG) nr 261/2004 om flygpassagerares rättigheter",
+    "no": "Forordning (EF) nr. 261/2004 om flypassasjerers rettigheter"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/2004/261/oj",
+   "authority": {
+    "en": "European Commission, Your Europe: air passenger rights",
+    "sv": "Europeiska kommissionen, Your Europe: flygpassagerares rättigheter",
+    "no": "Europakommisjonen, Your Europe: flypassasjerers rettigheter"
+   },
+   "authorityUrl": "https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm",
+   "celex": "32004R0261"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "aterbetalning-flyg",
+  "path": "/resenar/aterbetalning-flyg",
+  "track": "flight",
+  "source": "r261",
+  "law": {
+   "en": "Article 8",
+   "sv": "Artikel 8",
+   "no": "Artikkel 8"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "How quickly must the airline refund a cancelled flight?",
+    "answer": "A refund must be paid within seven days, in cash, by bank transfer or cheque, or with travel vouchers only if you agree in writing. The refund covers the full ticket price for the parts not flown.",
+    "how": "Parts already flown can also be refunded if the trip no longer serves its purpose, together with a return flight to the first departure point. Compensation is a separate right on top of the refund.",
+    "object": "Refund of the ticket",
+    "title": "How quickly must the airline refund a cancelled flight?",
+    "description": "A refund must be paid within seven days, in cash, by bank transfer or cheque, or with travel vouchers only if you agree in writing. The refund covers…"
+   },
+   "sv": {
+    "question": "Hur snabbt måste flygbolaget betala tillbaka för ett inställt flyg?",
+    "answer": "Pengarna ska betalas tillbaka inom sju dagar, kontant, via bank eller check, och med resevärdebevis bara om du godkänner det skriftligt. Återbetalningen gäller hela biljettpriset för de delar som inte flugits.",
+    "how": "Delar som redan flugits kan också betalas tillbaka om resan inte längre fyller sitt syfte, tillsammans med en returresa till första avgångsorten. Ersättningen är en egen rätt utöver återbetalningen.",
+    "object": "Återbetalning av biljetten",
+    "title": "Hur snabbt måste flygbolaget betala tillbaka för ett…",
+    "description": "Pengarna ska betalas tillbaka inom sju dagar, kontant, via bank eller check, och med resevärdebevis bara om du godkänner det skriftligt.…"
+   },
+   "no": {
+    "question": "Hvor raskt må flyselskapet betale tilbake for et kansellert fly?",
+    "answer": "Pengene skal betales tilbake innen sju dager, kontant, via bank eller sjekk, og med reiseverdikuponger bare hvis du godtar det skriftlig. Tilbakebetalingen gjelder hele billettprisen for delene som ikke er fløyet.",
+    "how": "Deler som allerede er fløyet, kan også betales tilbake hvis reisen ikke lenger har noe formål, sammen med en returreise til første avgangssted. Kompensasjonen er en egen rett i tillegg til tilbakebetalingen.",
+    "object": "Tilbakebetaling av billetten",
+    "title": "Hvor raskt må flyselskapet betale tilbake for et kansellert…",
+    "description": "Pengene skal betales tilbake innen sju dager, kontant, via bank eller sjekk, og med reiseverdikuponger bare hvis du godtar det skriftlig.…"
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/aterbetalning-flyg",
+  "source_detail": {
+   "name": {
+    "en": "Regulation (EC) No 261/2004 on air passenger rights",
+    "sv": "Förordning (EG) nr 261/2004 om flygpassagerares rättigheter",
+    "no": "Forordning (EF) nr. 261/2004 om flypassasjerers rettigheter"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/2004/261/oj",
+   "authority": {
+    "en": "European Commission, Your Europe: air passenger rights",
+    "sv": "Europeiska kommissionen, Your Europe: flygpassagerares rättigheter",
+    "no": "Europakommisjonen, Your Europe: flypassasjerers rettigheter"
+   },
+   "authorityUrl": "https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm",
+   "celex": "32004R0261"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "missad-anslutning",
+  "path": "/resenar/missad-anslutning",
+  "track": "flight",
+  "source": "r261",
+  "law": {
+   "en": "Articles 6 and 7",
+   "sv": "Artiklarna 6 och 7",
+   "no": "Artikkel 6 og 7"
+  },
+  "cases": [
+   "folkerts"
+  ],
+  "copy": {
+   "en": {
+    "question": "Do I get compensation if a delay makes me miss my connecting flight?",
+    "answer": "Yes, if the flights are on one booking and you reach your final destination three hours or more late. The delay is measured at the final destination, not on the first leg.",
+    "how": "Flights bought on separate bookings are treated as separate trips. The first flight must be covered by the Regulation for the rules to apply to the whole booking.",
+    "object": "Connecting flights on one booking",
+    "title": "Do I get compensation if a delay makes me miss my…",
+    "description": "Yes, if the flights are on one booking and you reach your final destination three hours or more late. The delay is measured at the final destination,…"
+   },
+   "sv": {
+    "question": "Får jag ersättning om en försening gör att jag missar anslutningen?",
+    "answer": "Ja, om flygen ligger på samma bokning och du kommer fram till slutmålet tre timmar eller mer försenad. Förseningen mäts vid slutmålet, inte på första sträckan.",
+    "how": "Flyg som köpts på separata bokningar räknas som separata resor. Den första sträckan måste omfattas av förordningen för att reglerna ska gälla hela bokningen.",
+    "object": "Anslutningsflyg på samma bokning",
+    "title": "Får jag ersättning om en försening gör att jag missar…",
+    "description": "Ja, om flygen ligger på samma bokning och du kommer fram till slutmålet tre timmar eller mer försenad. Förseningen mäts vid slutmålet, inte på första…"
+   },
+   "no": {
+    "question": "Får jeg kompensasjon hvis en forsinkelse gjør at jeg mister tilknytningen?",
+    "answer": "Ja, hvis flyene ligger på samme bestilling og du kommer fram til sluttdestinasjonen tre timer eller mer forsinket. Forsinkelsen måles ved sluttdestinasjonen, ikke på første strekning.",
+    "how": "Fly som er kjøpt på separate bestillinger, regnes som separate reiser. Den første strekningen må omfattes av forordningen for at reglene skal gjelde hele bestillingen.",
+    "object": "Tilknytningsfly på samme bestilling",
+    "title": "Får jeg kompensasjon hvis en forsinkelse gjør at jeg mister…",
+    "description": "Ja, hvis flyene ligger på samme bestilling og du kommer fram til sluttdestinasjonen tre timer eller mer forsinket. Forsinkelsen måles ved…"
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/missad-anslutning",
+  "source_detail": {
+   "name": {
+    "en": "Regulation (EC) No 261/2004 on air passenger rights",
+    "sv": "Förordning (EG) nr 261/2004 om flygpassagerares rättigheter",
+    "no": "Forordning (EF) nr. 261/2004 om flypassasjerers rettigheter"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/2004/261/oj",
+   "authority": {
+    "en": "European Commission, Your Europe: air passenger rights",
+    "sv": "Europeiska kommissionen, Your Europe: flygpassagerares rättigheter",
+    "no": "Europakommisjonen, Your Europe: flypassasjerers rettigheter"
+   },
+   "authorityUrl": "https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm",
+   "celex": "32004R0261"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "nedgradering",
+  "path": "/resenar/nedgradering",
+  "track": "flight",
+  "source": "r261",
+  "law": {
+   "en": "Article 10",
+   "sv": "Artikel 10",
+   "no": "Artikkel 10"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "What do I get back if I am moved to a lower class?",
+    "answer": "The airline must refund 30, 50 or 75 percent of the ticket price for the flight, depending on distance, within seven days. If you are moved to a higher class, the airline may not charge extra.",
+    "how": "The 30 percent level applies to flights up to 1,500 km, 50 percent to longer flights within the EU and flights up to 3,500 km, and 75 percent to all other flights.",
+    "object": "Downgrading to a lower class",
+    "title": "What do I get back if I am moved to a lower class?",
+    "description": "The airline must refund 30, 50 or 75 percent of the ticket price for the flight, depending on distance, within seven days. If you are moved to a higher…"
+   },
+   "sv": {
+    "question": "Vad får jag tillbaka om jag flyttas till en lägre klass?",
+    "answer": "Flygbolaget ska betala tillbaka 30, 50 eller 75 procent av biljettpriset för flyget, beroende på avstånd, inom sju dagar. Flyttas du till en högre klass får flygbolaget inte ta extra betalt.",
+    "how": "30 procent gäller flyg upp till 1 500 km, 50 procent längre flyg inom EU och flyg upp till 3 500 km, och 75 procent alla andra flyg.",
+    "object": "Nedgradering till lägre klass",
+    "title": "Vad får jag tillbaka om jag flyttas till en lägre klass?",
+    "description": "Flygbolaget ska betala tillbaka 30, 50 eller 75 procent av biljettpriset för flyget, beroende på avstånd, inom sju dagar. Flyttas du till en högre…"
+   },
+   "no": {
+    "question": "Hva får jeg tilbake hvis jeg flyttes til en lavere klasse?",
+    "answer": "Flyselskapet skal betale tilbake 30, 50 eller 75 prosent av billettprisen for flyet, avhengig av avstand, innen sju dager. Flyttes du til en høyere klasse, kan flyselskapet ikke ta ekstra betalt.",
+    "how": "30 prosent gjelder fly opptil 1 500 km, 50 prosent lengre fly innen EU og fly opptil 3 500 km, og 75 prosent alle andre fly.",
+    "object": "Nedgradering til lavere klasse",
+    "title": "Hva får jeg tilbake hvis jeg flyttes til en lavere klasse?",
+    "description": "Flyselskapet skal betale tilbake 30, 50 eller 75 prosent av billettprisen for flyet, avhengig av avstand, innen sju dager. Flyttes du til en høyere…"
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/nedgradering",
+  "source_detail": {
+   "name": {
+    "en": "Regulation (EC) No 261/2004 on air passenger rights",
+    "sv": "Förordning (EG) nr 261/2004 om flygpassagerares rättigheter",
+    "no": "Forordning (EF) nr. 261/2004 om flypassasjerers rettigheter"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/2004/261/oj",
+   "authority": {
+    "en": "European Commission, Your Europe: air passenger rights",
+    "sv": "Europeiska kommissionen, Your Europe: flygpassagerares rättigheter",
+    "no": "Europakommisjonen, Your Europe: flypassasjerers rettigheter"
+   },
+   "authorityUrl": "https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm",
+   "celex": "32004R0261"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "preskription-flygersattning",
+  "path": "/resenar/preskription-flygersattning",
+  "track": "flight",
+  "source": "r261",
+  "law": {
+   "en": "Article 7, read with national law",
+   "sv": "Artikel 7, läst med nationell rätt",
+   "no": "Artikkel 7, lest med nasjonal rett"
+  },
+  "cases": [
+   "more-klm"
+  ],
+  "copy": {
+   "en": {
+    "question": "How long do I have to claim flight compensation?",
+    "answer": "The Regulation itself sets no deadline. The time limit is set by the national law of the country where the claim is brought, so it differs between countries.",
+    "how": "Claim in writing to the airline first and keep a copy. If the airline refuses, the national enforcement body or consumer dispute board can review the case.",
+    "object": "Time limit for a compensation claim",
+    "title": "How long do I have to claim flight compensation?",
+    "description": "The Regulation itself sets no deadline. The time limit is set by the national law of the country where the claim is brought, so it differs between…"
+   },
+   "sv": {
+    "question": "Hur lång tid har jag på mig att kräva flygersättning?",
+    "answer": "Förordningen sätter ingen egen tidsfrist. Fristen bestäms av nationell rätt i det land där kravet förs, så den skiljer sig mellan länder.",
+    "how": "Kräv först flygbolaget skriftligt och spara en kopia. Säger flygbolaget nej kan den nationella tillsynsmyndigheten eller en tvistlösningsnämnd pröva saken.",
+    "object": "Tidsfrist för krav på ersättning",
+    "title": "Hur lång tid har jag på mig att kräva flygersättning?",
+    "description": "Förordningen sätter ingen egen tidsfrist. Fristen bestäms av nationell rätt i det land där kravet förs, så den skiljer sig mellan länder."
+   },
+   "no": {
+    "question": "Hvor lang tid har jeg på meg til å kreve flykompensasjon?",
+    "answer": "Forordningen setter ingen egen frist. Fristen fastsettes av nasjonal rett i landet der kravet fremmes, så den varierer mellom land.",
+    "how": "Krev først flyselskapet skriftlig og ta vare på en kopi. Sier flyselskapet nei, kan det nasjonale tilsynsorganet eller en klagenemnd vurdere saken.",
+    "object": "Frist for krav om kompensasjon",
+    "title": "Hvor lang tid har jeg på meg til å kreve flykompensasjon?",
+    "description": "Forordningen setter ingen egen frist. Fristen fastsettes av nasjonal rett i landet der kravet fremmes, så den varierer mellom land."
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/preskription-flygersattning",
+  "source_detail": {
+   "name": {
+    "en": "Regulation (EC) No 261/2004 on air passenger rights",
+    "sv": "Förordning (EG) nr 261/2004 om flygpassagerares rättigheter",
+    "no": "Forordning (EF) nr. 261/2004 om flypassasjerers rettigheter"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/2004/261/oj",
+   "authority": {
+    "en": "European Commission, Your Europe: air passenger rights",
+    "sv": "Europeiska kommissionen, Your Europe: flygpassagerares rättigheter",
+    "no": "Europakommisjonen, Your Europe: flypassasjerers rettigheter"
+   },
+   "authorityUrl": "https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm",
+   "celex": "32004R0261"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "bagage-forlorat",
+  "path": "/resenar/bagage-forlorat",
+  "track": "flight",
+  "source": "montreal",
+  "law": {
+   "en": "Montreal Convention, Articles 17 and 22",
+   "sv": "Montrealkonventionen, artiklarna 17 och 22",
+   "no": "Montrealkonvensjonen, artikkel 17 og 22"
+  },
+  "cases": [
+   "walz"
+  ],
+  "copy": {
+   "en": {
+    "question": "What compensation do I get for lost baggage?",
+    "answer": "The airline is liable for checked baggage that is lost, up to a limit set in Special Drawing Rights, an IMF unit, per passenger. The limit covers both financial loss and non-material damage.",
+    "how": "Baggage counts as lost if it has not arrived 21 days after it should have. You can raise the limit by declaring a higher value at check-in and paying any fee.",
+    "object": "Lost checked baggage",
+    "title": "What compensation do I get for lost baggage?",
+    "description": "The airline is liable for checked baggage that is lost, up to a limit set in Special Drawing Rights, an IMF unit, per passenger. The limit covers both…"
+   },
+   "sv": {
+    "question": "Vilken ersättning får jag för förlorat bagage?",
+    "answer": "Flygbolaget ansvarar för incheckat bagage som går förlorat, upp till en gräns i särskilda dragningsrätter, en enhet hos IMF, per passagerare. Gränsen omfattar både ekonomisk förlust och ideell skada.",
+    "how": "Bagage räknas som förlorat om det inte kommit fram 21 dagar efter att det borde ha gjort det. Du kan höja gränsen genom att uppge ett högre värde vid incheckningen och betala en eventuell avgift.",
+    "object": "Förlorat incheckat bagage",
+    "title": "Vilken ersättning får jag för förlorat bagage?",
+    "description": "Flygbolaget ansvarar för incheckat bagage som går förlorat, upp till en gräns i särskilda dragningsrätter, en enhet hos IMF, per passagerare. Gränsen…"
+   },
+   "no": {
+    "question": "Hvilken erstatning får jeg for tapt bagasje?",
+    "answer": "Flyselskapet er ansvarlig for innsjekket bagasje som går tapt, opptil en grense i spesielle trekkrettigheter, en enhet i IMF, per passasjer. Grensen omfatter både økonomisk tap og ikke-økonomisk skade.",
+    "how": "Bagasje regnes som tapt hvis den ikke har kommet fram 21 dager etter at den skulle. Du kan heve grensen ved å oppgi en høyere verdi ved innsjekking og betale et eventuelt gebyr.",
+    "object": "Tapt innsjekket bagasje",
+    "title": "Hvilken erstatning får jeg for tapt bagasje?",
+    "description": "Flyselskapet er ansvarlig for innsjekket bagasje som går tapt, opptil en grense i spesielle trekkrettigheter, en enhet i IMF, per passasjer. Grensen…"
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/bagage-forlorat",
+  "source_detail": {
+   "name": {
+    "en": "Montreal Convention, applied in the EU through Regulation (EC) No 2027/97",
+    "sv": "Montrealkonventionen, tillämpad i EU genom förordning (EG) nr 2027/97",
+    "no": "Montrealkonvensjonen, anvendt i EU gjennom forordning (EF) nr. 2027/97"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/1997/2027/oj",
+   "authority": {
+    "en": "European Commission, Your Europe: air passenger rights",
+    "sv": "Europeiska kommissionen, Your Europe: flygpassagerares rättigheter",
+    "no": "Europakommisjonen, Your Europe: flypassasjerers rettigheter"
+   },
+   "authorityUrl": "https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm",
+   "celex": "31997R2027"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "bagage-forsenat",
+  "path": "/resenar/bagage-forsenat",
+  "track": "flight",
+  "source": "montreal",
+  "law": {
+   "en": "Montreal Convention, Articles 19 and 31",
+   "sv": "Montrealkonventionen, artiklarna 19 och 31",
+   "no": "Montrealkonvensjonen, artikkel 19 og 31"
+  },
+  "cases": [
+   "walz"
+  ],
+  "copy": {
+   "en": {
+    "question": "What can I claim when my baggage is delayed?",
+    "answer": "The airline is liable for damage caused by delayed baggage, such as reasonable purchases of clothes and toiletries, within the same limit as for lost baggage. The claim must reach the airline in writing within 21 days of receiving the bag.",
+    "how": "Keep receipts and the baggage report (PIR) from the airport. The airline is not liable if it shows it took all reasonable measures to avoid the delay.",
+    "object": "Delayed checked baggage",
+    "title": "What can I claim when my baggage is delayed?",
+    "description": "The airline is liable for damage caused by delayed baggage, such as reasonable purchases of clothes and toiletries, within the same limit as for lost…"
+   },
+   "sv": {
+    "question": "Vad kan jag kräva när bagaget är försenat?",
+    "answer": "Flygbolaget ansvarar för skada som det försenade bagaget orsakar, till exempel rimliga inköp av kläder och hygienartiklar, inom samma gräns som för förlorat bagage. Kravet ska komma in skriftligt till flygbolaget inom 21 dagar från att du fick väskan.",
+    "how": "Spara kvitton och bagagerapporten (PIR) från flygplatsen. Flygbolaget ansvarar inte om det visar att det vidtog alla rimliga åtgärder för att undvika förseningen.",
+    "object": "Försenat incheckat bagage",
+    "title": "Vad kan jag kräva när bagaget är försenat?",
+    "description": "Flygbolaget ansvarar för skada som det försenade bagaget orsakar, till exempel rimliga inköp av kläder och hygienartiklar, inom samma gräns som för…"
+   },
+   "no": {
+    "question": "Hva kan jeg kreve når bagasjen er forsinket?",
+    "answer": "Flyselskapet er ansvarlig for skade som den forsinkede bagasjen gir, for eksempel rimelige innkjøp av klær og toalettsaker, innenfor samme grense som for tapt bagasje. Kravet skal være kommet skriftlig til flyselskapet innen 21 dager etter at du fikk kofferten.",
+    "how": "Ta vare på kvitteringer og bagasjerapporten (PIR) fra flyplassen. Flyselskapet er ikke ansvarlig hvis det viser at det traff alle rimelige tiltak for å unngå forsinkelsen.",
+    "object": "Forsinket innsjekket bagasje",
+    "title": "Hva kan jeg kreve når bagasjen er forsinket?",
+    "description": "Flyselskapet er ansvarlig for skade som den forsinkede bagasjen gir, for eksempel rimelige innkjøp av klær og toalettsaker, innenfor samme grense som…"
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/bagage-forsenat",
+  "source_detail": {
+   "name": {
+    "en": "Montreal Convention, applied in the EU through Regulation (EC) No 2027/97",
+    "sv": "Montrealkonventionen, tillämpad i EU genom förordning (EG) nr 2027/97",
+    "no": "Montrealkonvensjonen, anvendt i EU gjennom forordning (EF) nr. 2027/97"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/1997/2027/oj",
+   "authority": {
+    "en": "European Commission, Your Europe: air passenger rights",
+    "sv": "Europeiska kommissionen, Your Europe: flygpassagerares rättigheter",
+    "no": "Europakommisjonen, Your Europe: flypassasjerers rettigheter"
+   },
+   "authorityUrl": "https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm",
+   "celex": "31997R2027"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "bagage-skadat-anmalan",
+  "path": "/resenar/bagage-skadat-anmalan",
+  "track": "flight",
+  "source": "montreal",
+  "law": {
+   "en": "Montreal Convention, Articles 31 and 35",
+   "sv": "Montrealkonventionen, artiklarna 31 och 35",
+   "no": "Montrealkonvensjonen, artikkel 31 og 35"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "How soon must I report damaged baggage?",
+    "answer": "Damage to checked baggage must be reported to the airline in writing within seven days of receiving it. A court case must be brought within two years of arrival.",
+    "how": "Report the damage at the airport before you leave if you can, and follow up in writing. Missing the deadline can cost you the claim.",
+    "object": "Damaged checked baggage",
+    "title": "How soon must I report damaged baggage?",
+    "description": "Damage to checked baggage must be reported to the airline in writing within seven days of receiving it. A court case must be brought within two years…"
+   },
+   "sv": {
+    "question": "Hur snabbt måste jag anmäla skadat bagage?",
+    "answer": "Skada på incheckat bagage ska anmälas skriftligt till flygbolaget inom sju dagar från att du fick det. En talan i domstol ska väckas inom två år från ankomsten.",
+    "how": "Anmäl skadan på flygplatsen innan du går om du kan, och följ upp skriftligt. Missar du fristen kan du förlora rätten till ersättning.",
+    "object": "Skadat incheckat bagage",
+    "title": "Hur snabbt måste jag anmäla skadat bagage?",
+    "description": "Skada på incheckat bagage ska anmälas skriftligt till flygbolaget inom sju dagar från att du fick det. En talan i domstol ska väckas inom två år från…"
+   },
+   "no": {
+    "question": "Hvor raskt må jeg melde fra om skadet bagasje?",
+    "answer": "Skade på innsjekket bagasje skal meldes skriftlig til flyselskapet innen sju dager etter at du fikk den. Et søksmål må reises innen to år etter ankomst.",
+    "how": "Meld fra om skaden på flyplassen før du går hvis du kan, og følg opp skriftlig. Går fristen ut, kan du miste retten til erstatning.",
+    "object": "Skadet innsjekket bagasje",
+    "title": "Hvor raskt må jeg melde fra om skadet bagasje?",
+    "description": "Skade på innsjekket bagasje skal meldes skriftlig til flyselskapet innen sju dager etter at du fikk den. Et søksmål må reises innen to år etter ankomst."
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/bagage-skadat-anmalan",
+  "source_detail": {
+   "name": {
+    "en": "Montreal Convention, applied in the EU through Regulation (EC) No 2027/97",
+    "sv": "Montrealkonventionen, tillämpad i EU genom förordning (EG) nr 2027/97",
+    "no": "Montrealkonvensjonen, anvendt i EU gjennom forordning (EF) nr. 2027/97"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/1997/2027/oj",
+   "authority": {
+    "en": "European Commission, Your Europe: air passenger rights",
+    "sv": "Europeiska kommissionen, Your Europe: flygpassagerares rättigheter",
+    "no": "Europakommisjonen, Your Europe: flypassasjerers rettigheter"
+   },
+   "authorityUrl": "https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm",
+   "celex": "31997R2027"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "bagage-delad-vaska",
+  "path": "/resenar/bagage-delad-vaska",
+  "track": "flight",
+  "source": "montreal",
+  "law": {
+   "en": "Montreal Convention, Article 22(2)",
+   "sv": "Montrealkonventionen, artikel 22.2",
+   "no": "Montrealkonvensjonen, artikkel 22 nr. 2"
+  },
+  "cases": [
+   "espada-sanchez"
+  ],
+  "copy": {
+   "en": {
+    "question": "Can I claim for my things in a bag checked in under someone else's name?",
+    "answer": "Yes. Each passenger has their own liability limit and may claim for their own items, even when the bag was checked in under a travelling companion's name.",
+    "how": "You must show that the items in the bag were yours. Families sharing one suitcase therefore do not share one limit.",
+    "object": "Shared checked baggage",
+    "title": "Can I claim for my things in a bag checked in under someone…",
+    "description": "Yes. Each passenger has their own liability limit and may claim for their own items, even when the bag was checked in under a travelling companion's name."
+   },
+   "sv": {
+    "question": "Kan jag kräva ersättning för mina saker i en väska som checkats in i någon annans namn?",
+    "answer": "Ja. Varje passagerare har sin egen ansvarsgräns och kan kräva ersättning för sina egna saker, även när väskan checkats in i en medresenärs namn.",
+    "how": "Du behöver visa att sakerna i väskan var dina. En familj som delar en resväska delar alltså inte på en gräns.",
+    "object": "Delat incheckat bagage",
+    "title": "Kan jag kräva ersättning för mina saker i en väska som…",
+    "description": "Ja. Varje passagerare har sin egen ansvarsgräns och kan kräva ersättning för sina egna saker, även när väskan checkats in i en medresenärs namn."
+   },
+   "no": {
+    "question": "Kan jeg kreve erstatning for tingene mine i en koffert som er sjekket inn i noen andres navn?",
+    "answer": "Ja. Hver passasjer har sin egen ansvarsgrense og kan kreve erstatning for sine egne ting, også når kofferten er sjekket inn i en medpassasjers navn.",
+    "how": "Du må vise at tingene i kofferten var dine. En familie som deler én koffert, deler altså ikke én grense.",
+    "object": "Delt innsjekket bagasje",
+    "title": "Kan jeg kreve erstatning for tingene mine i en koffert som…",
+    "description": "Ja. Hver passasjer har sin egen ansvarsgrense og kan kreve erstatning for sine egne ting, også når kofferten er sjekket inn i en medpassasjers navn."
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/bagage-delad-vaska",
+  "source_detail": {
+   "name": {
+    "en": "Montreal Convention, applied in the EU through Regulation (EC) No 2027/97",
+    "sv": "Montrealkonventionen, tillämpad i EU genom förordning (EG) nr 2027/97",
+    "no": "Montrealkonvensjonen, anvendt i EU gjennom forordning (EF) nr. 2027/97"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/1997/2027/oj",
+   "authority": {
+    "en": "European Commission, Your Europe: air passenger rights",
+    "sv": "Europeiska kommissionen, Your Europe: flygpassagerares rättigheter",
+    "no": "Europakommisjonen, Your Europe: flypassasjerers rettigheter"
+   },
+   "authorityUrl": "https://europa.eu/youreurope/citizens/travel/passenger-rights/air/index_en.htm",
+   "celex": "31997R2027"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "paketresa-avbokning",
+  "path": "/resenar/paketresa-avbokning",
+  "track": "flight",
+  "source": "pkg",
+  "law": {
+   "en": "Article 12",
+   "sv": "Artikel 12",
+   "no": "Artikkel 12"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "Can I cancel a package holiday for free?",
+    "answer": "You may always cancel before departure against a reasonable cancellation fee. You may cancel without a fee if unavoidable and extraordinary circumstances at the destination significantly affect the trip, such as a natural disaster or serious unrest.",
+    "how": "If the organiser cancels, you get a full refund within 14 days. A significant price rise of more than 8 percent also gives you the right to cancel without a fee.",
+    "object": "Package holiday before departure",
+    "title": "Can I cancel a package holiday for free?",
+    "description": "You may always cancel before departure against a reasonable cancellation fee. You may cancel without a fee if unavoidable and extraordinary…"
+   },
+   "sv": {
+    "question": "Kan jag avboka en paketresa utan kostnad?",
+    "answer": "Du får alltid avboka före avresan mot en skälig avbokningsavgift. Du får avboka utan avgift om oundvikliga och extraordinära omständigheter på resmålet påverkar resan betydligt, till exempel en naturkatastrof eller allvarliga oroligheter.",
+    "how": "Ställer arrangören in resan får du alla pengar tillbaka inom 14 dagar. En betydande prishöjning på mer än 8 procent ger dig också rätt att avboka utan avgift.",
+    "object": "Paketresa före avresan",
+    "title": "Kan jag avboka en paketresa utan kostnad?",
+    "description": "Du får alltid avboka före avresan mot en skälig avbokningsavgift. Du får avboka utan avgift om oundvikliga och extraordinära omständigheter på resmålet…"
+   },
+   "no": {
+    "question": "Kan jeg avbestille en pakkereise gratis?",
+    "answer": "Du kan alltid avbestille før avreise mot et rimelig avbestillingsgebyr. Du kan avbestille uten gebyr hvis uunngåelige og ekstraordinære omstendigheter på reisemålet påvirker reisen vesentlig, for eksempel en naturkatastrofe eller alvorlig uro.",
+    "how": "Avlyser arrangøren reisen, får du alle pengene tilbake innen 14 dager. En vesentlig prisøkning på mer enn 8 prosent gir deg også rett til å avbestille uten gebyr.",
+    "object": "Pakkereise før avreise",
+    "title": "Kan jeg avbestille en pakkereise gratis?",
+    "description": "Du kan alltid avbestille før avreise mot et rimelig avbestillingsgebyr. Du kan avbestille uten gebyr hvis uunngåelige og ekstraordinære omstendigheter…"
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/paketresa-avbokning",
+  "source_detail": {
+   "name": {
+    "en": "Directive (EU) 2015/2302 on package travel",
+    "sv": "Direktiv (EU) 2015/2302 om paketresor",
+    "no": "Direktiv (EU) 2015/2302 om pakkereiser"
+   },
+   "url": "https://eur-lex.europa.eu/eli/dir/2015/2302/oj",
+   "authority": {
+    "en": "European Commission, Your Europe: package travel",
+    "sv": "Europeiska kommissionen, Your Europe: paketresor",
+    "no": "Europakommisjonen, Your Europe: pakkereiser"
+   },
+   "authorityUrl": "https://europa.eu/youreurope/citizens/travel/holidays/package-travel/index_en.htm",
+   "celex": "32015L2302"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "tag-forsening",
+  "path": "/resenar/tag-forsening",
+  "track": "flight",
+  "source": "rail",
+  "law": {
+   "en": "Article 19",
+   "sv": "Artikel 19",
+   "no": "Artikkel 19"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "What compensation do I get for a delayed train in the EU?",
+    "answer": "A delay of 60 to 119 minutes at the destination gives 25 percent of the ticket price, and 120 minutes or more gives 50 percent. Since June 2023 the railway does not pay compensation when the delay is caused by extraordinary circumstances such as severe weather.",
+    "how": "Compensation is paid within one month of the claim. Many countries have national rules that give more, for example from shorter delays.",
+    "object": "Delayed train journey in the EU",
+    "title": "What compensation do I get for a delayed train in the EU?",
+    "description": "A delay of 60 to 119 minutes at the destination gives 25 percent of the ticket price, and 120 minutes or more gives 50 percent. Since June 2023 the…"
+   },
+   "sv": {
+    "question": "Vilken ersättning får jag för ett försenat tåg i EU?",
+    "answer": "En försening på 60 till 119 minuter vid ankomsten ger 25 procent av biljettpriset, och 120 minuter eller mer ger 50 procent. Sedan juni 2023 betalar järnvägsbolaget ingen ersättning när förseningen beror på extraordinära omständigheter som svårt väder.",
+    "how": "Ersättningen betalas inom en månad från kravet. Många länder har nationella regler som ger mer, till exempel redan vid kortare förseningar.",
+    "object": "Försenad tågresa i EU",
+    "title": "Vilken ersättning får jag för ett försenat tåg i EU?",
+    "description": "En försening på 60 till 119 minuter vid ankomsten ger 25 procent av biljettpriset, och 120 minuter eller mer ger 50 procent. Sedan juni 2023 betalar…"
+   },
+   "no": {
+    "question": "Hvilken kompensasjon får jeg for et forsinket tog i EU?",
+    "answer": "En forsinkelse på 60 til 119 minutter ved ankomst gir 25 prosent av billettprisen, og 120 minutter eller mer gir 50 prosent. Siden juni 2023 betaler jernbaneselskapet ikke kompensasjon når forsinkelsen skyldes ekstraordinære omstendigheter som ekstremvær.",
+    "how": "Kompensasjonen betales innen én måned etter kravet. Mange land har nasjonale regler som gir mer, for eksempel allerede ved kortere forsinkelser.",
+    "object": "Forsinket togreise i EU",
+    "title": "Hvilken kompensasjon får jeg for et forsinket tog i EU?",
+    "description": "En forsinkelse på 60 til 119 minutter ved ankomst gir 25 prosent av billettprisen, og 120 minutter eller mer gir 50 prosent. Siden juni 2023 betaler…"
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/tag-forsening",
+  "source_detail": {
+   "name": {
+    "en": "Regulation (EU) 2021/782 on rail passengers' rights",
+    "sv": "Förordning (EU) 2021/782 om tågresenärers rättigheter",
+    "no": "Forordning (EU) 2021/782 om togpassasjerers rettigheter"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/2021/782/oj",
+   "authority": {
+    "en": "European Commission, Your Europe: rail passenger rights",
+    "sv": "Europeiska kommissionen, Your Europe: tågresenärers rättigheter",
+    "no": "Europakommisjonen, Your Europe: togpassasjerers rettigheter"
+   },
+   "authorityUrl": "https://europa.eu/youreurope/citizens/travel/passenger-rights/rail/index_en.htm",
+   "celex": "32021R0782"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "schengen-90-180",
+  "path": "/resenar/schengen-90-180",
+  "track": "entry",
+  "source": "sbc",
+  "law": {
+   "en": "Article 6(1)",
+   "sv": "Artikel 6.1",
+   "no": "Artikkel 6 nr. 1"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "How does the Schengen 90/180 day rule work?",
+    "answer": "Non-EU travellers on a short stay may be in the Schengen area for at most 90 days in any 180 day period. Each day counts back 180 days, so the window moves with every new day.",
+    "how": "Days in all Schengen countries are added together. Time with a national long-stay visa or residence permit does not count towards the 90 days.",
+    "object": "Short stay of non-EU nationals in Schengen",
+    "title": "How does the Schengen 90/180 day rule work?",
+    "description": "Non-EU travellers on a short stay may be in the Schengen area for at most 90 days in any 180 day period. Each day counts back 180 days, so the window…"
+   },
+   "sv": {
+    "question": "Hur fungerar Schengens regel om 90 dagar på 180?",
+    "answer": "Resenärer utanför EU på kortare vistelse får vara i Schengenområdet högst 90 dagar under varje period på 180 dagar. Varje dag räknas 180 dagar bakåt, så fönstret flyttas med varje ny dag.",
+    "how": "Dagar i alla Schengenländer räknas ihop. Tid med nationellt visum för längre vistelse eller uppehållstillstånd räknas inte in i de 90 dagarna.",
+    "object": "Kortare vistelse för medborgare utanför EU i Schengen",
+    "title": "Hur fungerar Schengens regel om 90 dagar på 180?",
+    "description": "Resenärer utanför EU på kortare vistelse får vara i Schengenområdet högst 90 dagar under varje period på 180 dagar. Varje dag räknas 180 dagar bakåt,…"
+   },
+   "no": {
+    "question": "Hvordan fungerer Schengens regel om 90 dager på 180?",
+    "answer": "Reisende fra land utenfor EU på kortere opphold kan være i Schengen-området høyst 90 dager i hver periode på 180 dager. Hver dag regnes 180 dager bakover, så vinduet flytter seg med hver nye dag.",
+    "how": "Dager i alle Schengen-land legges sammen. Tid med nasjonalt visum for lengre opphold eller oppholdstillatelse regnes ikke med i de 90 dagene.",
+    "object": "Kortere opphold for borgere utenfor EU i Schengen",
+    "title": "Hvordan fungerer Schengens regel om 90 dager på 180?",
+    "description": "Reisende fra land utenfor EU på kortere opphold kan være i Schengen-området høyst 90 dager i hver periode på 180 dager. Hver dag regnes 180 dager…"
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/schengen-90-180",
+  "source_detail": {
+   "name": {
+    "en": "Regulation (EU) 2016/399, Schengen Borders Code",
+    "sv": "Förordning (EU) 2016/399, kodex om Schengengränserna",
+    "no": "Forordning (EU) 2016/399, Schengen-grenseforordningen"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/2016/399/oj",
+   "authority": {
+    "en": "European Union, Travel to Europe",
+    "sv": "Europeiska unionen, Travel to Europe",
+    "no": "Den europeiske union, Travel to Europe"
+   },
+   "authorityUrl": "https://travel-europe.europa.eu/",
+   "celex": "32016R0399"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "pass-giltighet-schengen",
+  "path": "/resenar/pass-giltighet-schengen",
+  "track": "entry",
+  "source": "sbc",
+  "law": {
+   "en": "Article 6(1)(a)",
+   "sv": "Artikel 6.1 a",
+   "no": "Artikkel 6 nr. 1 bokstav a"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "How long must my passport be valid to enter Schengen?",
+    "answer": "For non-EU travellers the passport must be valid for at least three months after the planned departure from the Schengen area. It must also have been issued within the previous ten years.",
+    "how": "Border guards may make exceptions in emergencies. EU and EEA citizens follow other rules and only need a valid ID card or passport.",
+    "object": "Travel document of non-EU nationals at the Schengen border",
+    "title": "How long must my passport be valid to enter Schengen?",
+    "description": "For non-EU travellers the passport must be valid for at least three months after the planned departure from the Schengen area. It must also have been…"
+   },
+   "sv": {
+    "question": "Hur länge måste passet vara giltigt för inresa i Schengen?",
+    "answer": "För resenärer utanför EU ska passet gälla minst tre månader efter den planerade utresan ur Schengenområdet. Det ska också ha utfärdats under de senaste tio åren.",
+    "how": "Gränspolisen kan göra undantag i nödsituationer. Medborgare i EU och EES följer andra regler och behöver bara ett giltigt id-kort eller pass.",
+    "object": "Resehandling för medborgare utanför EU vid Schengengränsen",
+    "title": "Hur länge måste passet vara giltigt för inresa i Schengen?",
+    "description": "För resenärer utanför EU ska passet gälla minst tre månader efter den planerade utresan ur Schengenområdet. Det ska också ha utfärdats under de senaste…"
+   },
+   "no": {
+    "question": "Hvor lenge må passet være gyldig for innreise til Schengen?",
+    "answer": "For reisende fra land utenfor EU må passet være gyldig minst tre måneder etter planlagt utreise fra Schengen-området. Det må også være utstedt i løpet av de siste ti årene.",
+    "how": "Grensepolitiet kan gjøre unntak i nødstilfeller. Borgere i EU og EØS følger andre regler og trenger bare gyldig ID-kort eller pass.",
+    "object": "Reisedokument for borgere utenfor EU ved Schengen-grensen",
+    "title": "Hvor lenge må passet være gyldig for innreise til Schengen?",
+    "description": "For reisende fra land utenfor EU må passet være gyldig minst tre måneder etter planlagt utreise fra Schengen-området. Det må også være utstedt i løpet…"
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/pass-giltighet-schengen",
+  "source_detail": {
+   "name": {
+    "en": "Regulation (EU) 2016/399, Schengen Borders Code",
+    "sv": "Förordning (EU) 2016/399, kodex om Schengengränserna",
+    "no": "Forordning (EU) 2016/399, Schengen-grenseforordningen"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/2016/399/oj",
+   "authority": {
+    "en": "European Union, Travel to Europe",
+    "sv": "Europeiska unionen, Travel to Europe",
+    "no": "Den europeiske union, Travel to Europe"
+   },
+   "authorityUrl": "https://travel-europe.europa.eu/",
+   "celex": "32016R0399"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "visum-vem-behover",
+  "path": "/resenar/visum-vem-behover",
+  "track": "entry",
+  "source": "visalist",
+  "law": {
+   "en": "Article 3 and Annexes I and II",
+   "sv": "Artikel 3 och bilagorna I och II",
+   "no": "Artikkel 3 og vedlegg I og II"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "Who needs a visa to visit the Schengen area?",
+    "answer": "The EU keeps two lists: citizens of countries in Annex I need a visa for short stays, while citizens of countries in Annex II do not. The lists are the same for all Schengen countries.",
+    "how": "Visa-free travellers still follow the 90/180 day rule and must meet the entry conditions at the border. Check the current annexes, as countries move between the lists.",
+    "object": "Visa requirement for short stays",
+    "title": "Who needs a visa to visit the Schengen area?",
+    "description": "The EU keeps two lists: citizens of countries in Annex I need a visa for short stays, while citizens of countries in Annex II do not. The lists are the…"
+   },
+   "sv": {
+    "question": "Vem behöver visum för att besöka Schengenområdet?",
+    "answer": "EU har två listor: medborgare i länder i bilaga I behöver visum för kortare vistelser, medan medborgare i länder i bilaga II inte gör det. Listorna är desamma för alla Schengenländer.",
+    "how": "Resenärer utan visumkrav följer ändå regeln om 90 dagar på 180 och måste uppfylla inresevillkoren vid gränsen. Kontrollera de aktuella bilagorna, eftersom länder flyttas mellan listorna.",
+    "object": "Visumkrav för kortare vistelser",
+    "title": "Vem behöver visum för att besöka Schengenområdet?",
+    "description": "EU har två listor: medborgare i länder i bilaga I behöver visum för kortare vistelser, medan medborgare i länder i bilaga II inte gör det. Listorna är…"
+   },
+   "no": {
+    "question": "Hvem trenger visum for å besøke Schengen-området?",
+    "answer": "EU har to lister: borgere av land i vedlegg I trenger visum for kortere opphold, mens borgere av land i vedlegg II ikke gjør det. Listene er de samme for alle Schengen-land.",
+    "how": "Reisende uten visumplikt følger likevel regelen om 90 dager på 180 og må oppfylle innreisevilkårene ved grensen. Sjekk de gjeldende vedleggene, fordi land flyttes mellom listene.",
+    "object": "Visumplikt for kortere opphold",
+    "title": "Hvem trenger visum for å besøke Schengen-området?",
+    "description": "EU har to lister: borgere av land i vedlegg I trenger visum for kortere opphold, mens borgere av land i vedlegg II ikke gjør det. Listene er de samme…"
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/visum-vem-behover",
+  "source_detail": {
+   "name": {
+    "en": "Regulation (EU) 2018/1806, the visa list",
+    "sv": "Förordning (EU) 2018/1806, viseringslistan",
+    "no": "Forordning (EU) 2018/1806, visumlisten"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/2018/1806/oj",
+   "authority": {
+    "en": "European Commission, Migration and Home Affairs: visa policy",
+    "sv": "Europeiska kommissionen, migration och inrikes frågor: viseringspolitik",
+    "no": "Europakommisjonen, migrasjon og innenrikssaker: visumpolitikk"
+   },
+   "authorityUrl": "https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/visa-policy_en",
+   "celex": "32018R1806"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "visum-handlaggningstid",
+  "path": "/resenar/visum-handlaggningstid",
+  "track": "entry",
+  "source": "visa",
+  "law": {
+   "en": "Articles 9 and 23",
+   "sv": "Artiklarna 9 och 23",
+   "no": "Artikkel 9 og 23"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "How long does a Schengen visa application take?",
+    "answer": "The consulate decides within 15 calendar days, which can be extended to 45 days in individual cases. You may apply at the earliest six months and as a rule at the latest 15 days before the trip.",
+    "how": "Apply to the country that is your main destination. If you have no main destination, apply to the country you enter first.",
+    "object": "Processing of a short-stay visa",
+    "title": "How long does a Schengen visa application take?",
+    "description": "The consulate decides within 15 calendar days, which can be extended to 45 days in individual cases. You may apply at the earliest six months and as a…"
+   },
+   "sv": {
+    "question": "Hur lång tid tar en ansökan om Schengenvisum?",
+    "answer": "Konsulatet fattar beslut inom 15 kalenderdagar, vilket i enskilda fall kan förlängas till 45 dagar. Du får ansöka tidigast sex månader och som regel senast 15 dagar före resan.",
+    "how": "Ansök hos det land som är ditt huvudsakliga resmål. Saknas ett huvudsakligt resmål ansöker du hos det land du reser in i först.",
+    "object": "Handläggning av visum för kortare vistelse",
+    "title": "Hur lång tid tar en ansökan om Schengenvisum?",
+    "description": "Konsulatet fattar beslut inom 15 kalenderdagar, vilket i enskilda fall kan förlängas till 45 dagar. Du får ansöka tidigast sex månader och som regel…"
+   },
+   "no": {
+    "question": "Hvor lang tid tar en søknad om Schengen-visum?",
+    "answer": "Konsulatet treffer vedtak innen 15 kalenderdager, som i enkeltsaker kan forlenges til 45 dager. Du kan søke tidligst seks måneder og som regel senest 15 dager før reisen.",
+    "how": "Søk hos landet som er ditt viktigste reisemål. Har du ikke noe hovedreisemål, søker du hos landet du reiser inn i først.",
+    "object": "Behandling av visum for kortere opphold",
+    "title": "Hvor lang tid tar en søknad om Schengen-visum?",
+    "description": "Konsulatet treffer vedtak innen 15 kalenderdager, som i enkeltsaker kan forlenges til 45 dager. Du kan søke tidligst seks måneder og som regel senest…"
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/visum-handlaggningstid",
+  "source_detail": {
+   "name": {
+    "en": "Regulation (EC) No 810/2009, Visa Code",
+    "sv": "Förordning (EG) nr 810/2009, viseringskodexen",
+    "no": "Forordning (EF) nr. 810/2009, visumkodeksen"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/2009/810/oj",
+   "authority": {
+    "en": "European Commission, Migration and Home Affairs: visa policy",
+    "sv": "Europeiska kommissionen, migration och inrikes frågor: viseringspolitik",
+    "no": "Europakommisjonen, migrasjon og innenrikssaker: visumpolitikk"
+   },
+   "authorityUrl": "https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/visa-policy_en",
+   "celex": "32009R0810"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "visum-avgift",
+  "path": "/resenar/visum-avgift",
+  "track": "entry",
+  "source": "visa",
+  "law": {
+   "en": "Article 16",
+   "sv": "Artikel 16",
+   "no": "Artikkel 16"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "What does a Schengen visa cost?",
+    "answer": "The standard visa fee is set in Article 16 of the Visa Code, with a lower fee for children aged 6 to 12 and no fee for children under 6. The amounts are reviewed by the Commission and last changed in June 2024.",
+    "how": "Some groups, such as students on study trips and researchers, are exempt. Visa facilitation agreements with some countries set lower fees. Check the current amount on the official page before you apply.",
+    "object": "Fee for a short-stay visa",
+    "title": "What does a Schengen visa cost?",
+    "description": "The standard visa fee is set in Article 16 of the Visa Code, with a lower fee for children aged 6 to 12 and no fee for children under 6. The amounts…"
+   },
+   "sv": {
+    "question": "Vad kostar ett Schengenvisum?",
+    "answer": "Den vanliga visumavgiften står i artikel 16 i viseringskodexen, med lägre avgift för barn mellan 6 och 12 år och ingen avgift för barn under 6. Beloppen ses över av kommissionen och ändrades senast i juni 2024.",
+    "how": "Vissa grupper, till exempel studenter på studieresa och forskare, slipper avgiften. Avtal med vissa länder ger lägre avgifter. Kontrollera aktuellt belopp på den officiella sidan innan du ansöker.",
+    "object": "Avgift för visum för kortare vistelse",
+    "title": "Vad kostar ett Schengenvisum?",
+    "description": "Den vanliga visumavgiften står i artikel 16 i viseringskodexen, med lägre avgift för barn mellan 6 och 12 år och ingen avgift för barn under 6.…"
+   },
+   "no": {
+    "question": "Hva koster et Schengen-visum?",
+    "answer": "Det vanlige visumgebyret står i artikkel 16 i visumkodeksen, med lavere gebyr for barn mellom 6 og 12 år og ikke noe gebyr for barn under 6. Beløpene vurderes av kommisjonen og ble sist endret i juni 2024.",
+    "how": "Noen grupper, for eksempel studenter på studiereise og forskere, slipper gebyret. Avtaler med enkelte land gir lavere gebyrer. Sjekk gjeldende beløp på den offisielle siden før du søker.",
+    "object": "Gebyr for visum for kortere opphold",
+    "title": "Hva koster et Schengen-visum?",
+    "description": "Det vanlige visumgebyret står i artikkel 16 i visumkodeksen, med lavere gebyr for barn mellom 6 og 12 år og ikke noe gebyr for barn under 6. Beløpene…"
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/visum-avgift",
+  "source_detail": {
+   "name": {
+    "en": "Regulation (EC) No 810/2009, Visa Code",
+    "sv": "Förordning (EG) nr 810/2009, viseringskodexen",
+    "no": "Forordning (EF) nr. 810/2009, visumkodeksen"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/2009/810/oj",
+   "authority": {
+    "en": "European Commission, Migration and Home Affairs: visa policy",
+    "sv": "Europeiska kommissionen, migration och inrikes frågor: viseringspolitik",
+    "no": "Europakommisjonen, migrasjon og innenrikssaker: visumpolitikk"
+   },
+   "authorityUrl": "https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/visa-policy_en",
+   "celex": "32009R0810"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "visum-avslag-overklaga",
+  "path": "/resenar/visum-avslag-overklaga",
+  "track": "entry",
+  "source": "visa",
+  "law": {
+   "en": "Articles 32(1) and 32(3)",
+   "sv": "Artikel 32.1 och 32.3",
+   "no": "Artikkel 32 nr. 1 og 3"
+  },
+  "cases": [
+   "koushkaki",
+   "el-hassani"
+  ],
+  "copy": {
+   "en": {
+    "question": "Can I appeal a refused Schengen visa?",
+    "answer": "Yes. A refusal must state the reason on a standard form, and you have the right to appeal under the law of the country that refused, with access to a court at some stage.",
+    "how": "A visa may only be refused on the grounds listed in the Visa Code, though the authorities have a wide margin in assessing them. The form tells you where and how to appeal.",
+    "object": "Refused short-stay visa",
+    "title": "Can I appeal a refused Schengen visa?",
+    "description": "Yes. A refusal must state the reason on a standard form, and you have the right to appeal under the law of the country that refused, with access to a…"
+   },
+   "sv": {
+    "question": "Kan jag överklaga ett avslag på Schengenvisum?",
+    "answer": "Ja. Ett avslag ska ange skälet på ett standardformulär, och du har rätt att överklaga enligt lagen i det land som sa nej, med tillgång till domstol i något skede.",
+    "how": "Ett visum får bara vägras av de skäl som räknas upp i viseringskodexen, men myndigheten har ett stort utrymme att bedöma dem. Formuläret anger var och hur du överklagar.",
+    "object": "Avslag på visum för kortare vistelse",
+    "title": "Kan jag överklaga ett avslag på Schengenvisum?",
+    "description": "Ja. Ett avslag ska ange skälet på ett standardformulär, och du har rätt att överklaga enligt lagen i det land som sa nej, med tillgång till domstol i…"
+   },
+   "no": {
+    "question": "Kan jeg klage på avslag på Schengen-visum?",
+    "answer": "Ja. Et avslag skal oppgi grunnen på et standardskjema, og du har rett til å klage etter loven i landet som sa nei, med tilgang til domstol på et tidspunkt.",
+    "how": "Et visum kan bare avslås av grunnene som er listet i visumkodeksen, men myndigheten har stort rom for å vurdere dem. Skjemaet forteller hvor og hvordan du klager.",
+    "object": "Avslag på visum for kortere opphold",
+    "title": "Kan jeg klage på avslag på Schengen-visum?",
+    "description": "Ja. Et avslag skal oppgi grunnen på et standardskjema, og du har rett til å klage etter loven i landet som sa nei, med tilgang til domstol på et tidspunkt."
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/visum-avslag-overklaga",
+  "source_detail": {
+   "name": {
+    "en": "Regulation (EC) No 810/2009, Visa Code",
+    "sv": "Förordning (EG) nr 810/2009, viseringskodexen",
+    "no": "Forordning (EF) nr. 810/2009, visumkodeksen"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/2009/810/oj",
+   "authority": {
+    "en": "European Commission, Migration and Home Affairs: visa policy",
+    "sv": "Europeiska kommissionen, migration och inrikes frågor: viseringspolitik",
+    "no": "Europakommisjonen, migrasjon og innenrikssaker: visumpolitikk"
+   },
+   "authorityUrl": "https://home-affairs.ec.europa.eu/policies/schengen-borders-and-visa/visa-policy_en",
+   "celex": "32009R0810"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "etias-vad-ar",
+  "path": "/resenar/etias-vad-ar",
+  "track": "entry",
+  "source": "etias",
+  "law": {
+   "en": "Articles 1 and 2",
+   "sv": "Artiklarna 1 och 2",
+   "no": "Artikkel 1 og 2"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "What is ETIAS and who needs it?",
+    "answer": "ETIAS is an online travel authorisation that visa-free non-EU travellers will need before a short trip to most Schengen countries. It is not a visa, and EU citizens do not need it.",
+    "how": "The start date is set by the European Commission and is published on the official ETIAS page. Apply only through the official EU site, as other sites may charge extra.",
+    "object": "Travel authorisation for visa-free non-EU travellers",
+    "title": "What is ETIAS and who needs it?",
+    "description": "ETIAS is an online travel authorisation that visa-free non-EU travellers will need before a short trip to most Schengen countries. It is not a visa,…"
+   },
+   "sv": {
+    "question": "Vad är ETIAS och vem behöver det?",
+    "answer": "ETIAS är ett resetillstånd på nätet som resenärer utanför EU utan visumkrav kommer att behöva före en kort resa till de flesta Schengenländer. Det är inte ett visum, och EU-medborgare behöver det inte.",
+    "how": "Startdatumet bestäms av Europeiska kommissionen och publiceras på den officiella ETIAS-sidan. Ansök bara via EU:s officiella webbplats, eftersom andra sidor kan ta extra betalt.",
+    "object": "Resetillstånd för resenärer utanför EU utan visumkrav",
+    "title": "Vad är ETIAS och vem behöver det?",
+    "description": "ETIAS är ett resetillstånd på nätet som resenärer utanför EU utan visumkrav kommer att behöva före en kort resa till de flesta Schengenländer. Det är…"
+   },
+   "no": {
+    "question": "Hva er ETIAS og hvem trenger det?",
+    "answer": "ETIAS er en reisetillatelse på nett som reisende fra land utenfor EU uten visumplikt vil trenge før en kort reise til de fleste Schengen-land. Det er ikke et visum, og EU-borgere trenger det ikke.",
+    "how": "Startdatoen fastsettes av Europakommisjonen og publiseres på den offisielle ETIAS-siden. Søk bare via EUs offisielle nettsted, fordi andre sider kan ta ekstra betalt.",
+    "object": "Reisetillatelse for reisende utenfor EU uten visumplikt",
+    "title": "Hva er ETIAS og hvem trenger det?",
+    "description": "ETIAS er en reisetillatelse på nett som reisende fra land utenfor EU uten visumplikt vil trenge før en kort reise til de fleste Schengen-land. Det er…"
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/etias-vad-ar",
+  "source_detail": {
+   "name": {
+    "en": "Regulation (EU) 2018/1240 establishing ETIAS",
+    "sv": "Förordning (EU) 2018/1240 om ETIAS",
+    "no": "Forordning (EU) 2018/1240 om ETIAS"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/2018/1240/oj",
+   "authority": {
+    "en": "European Union, Travel to Europe",
+    "sv": "Europeiska unionen, Travel to Europe",
+    "no": "Den europeiske union, Travel to Europe"
+   },
+   "authorityUrl": "https://travel-europe.europa.eu/etias_en",
+   "celex": "32018R1240"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "etias-giltighet",
+  "path": "/resenar/etias-giltighet",
+  "track": "entry",
+  "source": "etias",
+  "law": {
+   "en": "Article 54",
+   "sv": "Artikel 54",
+   "no": "Artikkel 54"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "How long is an ETIAS travel authorisation valid?",
+    "answer": "An ETIAS authorisation is valid for three years, or until the passport it is linked to expires, whichever comes first. It can be used for many trips during that time.",
+    "how": "A new passport needs a new authorisation. The authorisation does not guarantee entry: the border guard still checks the entry conditions.",
+    "object": "Validity of an ETIAS authorisation",
+    "title": "How long is an ETIAS travel authorisation valid?",
+    "description": "An ETIAS authorisation is valid for three years, or until the passport it is linked to expires, whichever comes first. It can be used for many trips…"
+   },
+   "sv": {
+    "question": "Hur länge gäller ett ETIAS-tillstånd?",
+    "answer": "Ett ETIAS-tillstånd gäller i tre år, eller tills det pass det är kopplat till går ut, beroende på vad som kommer först. Det kan användas för många resor under den tiden.",
+    "how": "Ett nytt pass kräver ett nytt tillstånd. Tillståndet garanterar inte inresa: gränspolisen kontrollerar ändå inresevillkoren.",
+    "object": "Giltighet för ett ETIAS-tillstånd",
+    "title": "Hur länge gäller ett ETIAS-tillstånd?",
+    "description": "Ett ETIAS-tillstånd gäller i tre år, eller tills det pass det är kopplat till går ut, beroende på vad som kommer först. Det kan användas för många…"
+   },
+   "no": {
+    "question": "Hvor lenge gjelder en ETIAS-tillatelse?",
+    "answer": "En ETIAS-tillatelse gjelder i tre år, eller til passet den er knyttet til, går ut, avhengig av hva som kommer først. Den kan brukes til mange reiser i den perioden.",
+    "how": "Et nytt pass krever en ny tillatelse. Tillatelsen garanterer ikke innreise: grensepolitiet kontrollerer likevel innreisevilkårene.",
+    "object": "Gyldighet for en ETIAS-tillatelse",
+    "title": "Hvor lenge gjelder en ETIAS-tillatelse?",
+    "description": "En ETIAS-tillatelse gjelder i tre år, eller til passet den er knyttet til, går ut, avhengig av hva som kommer først. Den kan brukes til mange reiser i…"
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/etias-giltighet",
+  "source_detail": {
+   "name": {
+    "en": "Regulation (EU) 2018/1240 establishing ETIAS",
+    "sv": "Förordning (EU) 2018/1240 om ETIAS",
+    "no": "Forordning (EU) 2018/1240 om ETIAS"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/2018/1240/oj",
+   "authority": {
+    "en": "European Union, Travel to Europe",
+    "sv": "Europeiska unionen, Travel to Europe",
+    "no": "Den europeiske union, Travel to Europe"
+   },
+   "authorityUrl": "https://travel-europe.europa.eu/etias_en",
+   "celex": "32018R1240"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "ees-vad-ar",
+  "path": "/resenar/ees-vad-ar",
+  "track": "entry",
+  "source": "ees",
+  "law": {
+   "en": "Articles 1 and 2",
+   "sv": "Artiklarna 1 och 2",
+   "no": "Artikkel 1 og 2"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "What is the EU Entry/Exit System (EES)?",
+    "answer": "EES is a digital register of non-EU travellers on short stays, recording name, travel document, fingerprints, facial image and the date and place of each entry and exit. It replaces manual passport stamping at the Schengen external border.",
+    "how": "The system was introduced gradually from October 2025. EU citizens and residents of Schengen countries are not registered.",
+    "object": "Registration of non-EU travellers at the Schengen external border",
+    "title": "What is the EU Entry/Exit System (EES)?",
+    "description": "EES is a digital register of non-EU travellers on short stays, recording name, travel document, fingerprints, facial image and the date and place of…"
+   },
+   "sv": {
+    "question": "Vad är EU:s in- och utresesystem (EES)?",
+    "answer": "EES är ett digitalt register över resenärer utanför EU på kortare vistelse, med namn, resehandling, fingeravtryck, ansiktsbild samt datum och plats för varje in- och utresa. Det ersätter stämpling av pass vid Schengens yttre gräns.",
+    "how": "Systemet infördes stegvis från oktober 2025. EU-medborgare och personer bosatta i Schengenländer registreras inte.",
+    "object": "Registrering av resenärer utanför EU vid Schengens yttre gräns",
+    "title": "Vad är EU:s in- och utresesystem (EES)?",
+    "description": "EES är ett digitalt register över resenärer utanför EU på kortare vistelse, med namn, resehandling, fingeravtryck, ansiktsbild samt datum och plats för…"
+   },
+   "no": {
+    "question": "Hva er EUs inn- og utreisesystem (EES)?",
+    "answer": "EES er et digitalt register over reisende fra land utenfor EU på kortere opphold, med navn, reisedokument, fingeravtrykk, ansiktsbilde og dato og sted for hver inn- og utreise. Det erstatter stempling av pass ved Schengens yttergrense.",
+    "how": "Systemet ble innført gradvis fra oktober 2025. EU-borgere og personer bosatt i Schengen-land registreres ikke.",
+    "object": "Registrering av reisende utenfor EU ved Schengens yttergrense",
+    "title": "Hva er EUs inn- og utreisesystem (EES)?",
+    "description": "EES er et digitalt register over reisende fra land utenfor EU på kortere opphold, med navn, reisedokument, fingeravtrykk, ansiktsbilde og dato og sted…"
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/ees-vad-ar",
+  "source_detail": {
+   "name": {
+    "en": "Regulation (EU) 2017/2226 establishing the Entry/Exit System (EES)",
+    "sv": "Förordning (EU) 2017/2226 om in- och utresesystemet (EES)",
+    "no": "Forordning (EU) 2017/2226 om inn- og utreisesystemet (EES)"
+   },
+   "url": "https://eur-lex.europa.eu/eli/reg/2017/2226/oj",
+   "authority": {
+    "en": "European Union, Travel to Europe",
+    "sv": "Europeiska unionen, Travel to Europe",
+    "no": "Den europeiske union, Travel to Europe"
+   },
+   "authorityUrl": "https://travel-europe.europa.eu/ees_en",
+   "celex": "32017R2226"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "eu-medborgare-id-kort",
+  "path": "/resenar/eu-medborgare-id-kort",
+  "track": "entry",
+  "source": "freemove",
+  "law": {
+   "en": "Articles 4, 5 and 6",
+   "sv": "Artiklarna 4, 5 och 6",
+   "no": "Artikkel 4, 5 og 6"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "Can EU citizens travel within the EU with only an ID card?",
+    "answer": "Yes. EU citizens may leave and enter another EU country with a valid national ID card or passport, and stay up to three months without other conditions.",
+    "how": "The card must be a national identity card that shows citizenship. Driving licences and bank cards are not travel documents. Airlines may set their own rules on accepted documents for boarding.",
+    "object": "Travel within the EU for EU citizens",
+    "title": "Can EU citizens travel within the EU with only an ID card?",
+    "description": "Yes. EU citizens may leave and enter another EU country with a valid national ID card or passport, and stay up to three months without other conditions."
+   },
+   "sv": {
+    "question": "Kan EU-medborgare resa inom EU med bara id-kort?",
+    "answer": "Ja. EU-medborgare får resa ut och in i ett annat EU-land med ett giltigt nationellt id-kort eller pass, och stanna upp till tre månader utan andra villkor.",
+    "how": "Kortet ska vara ett nationellt id-kort som visar medborgarskap. Körkort och bankkort är inte resehandlingar. Flygbolag kan ha egna regler om vilka handlingar de godtar vid ombordstigning.",
+    "object": "Resa inom EU för EU-medborgare",
+    "title": "Kan EU-medborgare resa inom EU med bara id-kort?",
+    "description": "Ja. EU-medborgare får resa ut och in i ett annat EU-land med ett giltigt nationellt id-kort eller pass, och stanna upp till tre månader utan andra villkor."
+   },
+   "no": {
+    "question": "Kan EU-borgere reise i EU med bare ID-kort?",
+    "answer": "Ja. EU-borgere kan reise ut og inn i et annet EU-land med gyldig nasjonalt ID-kort eller pass, og bli i opptil tre måneder uten andre vilkår.",
+    "how": "Kortet må være et nasjonalt ID-kort som viser statsborgerskap. Førerkort og bankkort er ikke reisedokumenter. Flyselskaper kan ha egne regler om hvilke dokumenter de godtar ved ombordstigning.",
+    "object": "Reise i EU for EU-borgere",
+    "title": "Kan EU-borgere reise i EU med bare ID-kort?",
+    "description": "Ja. EU-borgere kan reise ut og inn i et annet EU-land med gyldig nasjonalt ID-kort eller pass, og bli i opptil tre måneder uten andre vilkår."
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/eu-medborgare-id-kort",
+  "source_detail": {
+   "name": {
+    "en": "Directive 2004/38/EC on free movement",
+    "sv": "Direktiv 2004/38/EG om fri rörlighet",
+    "no": "Direktiv 2004/38/EF om fri bevegelighet"
+   },
+   "url": "https://eur-lex.europa.eu/eli/dir/2004/38/oj",
+   "authority": {
+    "en": "European Commission, Your Europe: travel documents",
+    "sv": "Europeiska kommissionen, Your Europe: resehandlingar",
+    "no": "Europakommisjonen, Your Europe: reisedokumenter"
+   },
+   "authorityUrl": "https://europa.eu/youreurope/citizens/travel/entry-exit/eu-citizen/index_en.htm",
+   "celex": "32004L0038"
+  },
+  "reviewed": "2026-10-02"
+ },
+ {
+  "slug": "uk-eta",
+  "path": "/resenar/uk-eta",
+  "track": "entry",
+  "source": "ukEta",
+  "law": {
+   "en": "Appendix Electronic Travel Authorisation",
+   "sv": "Bilagan om ETA",
+   "no": "Vedlegget om ETA"
+  },
+  "cases": [],
+  "copy": {
+   "en": {
+    "question": "Do EU citizens need an ETA to visit the UK?",
+    "answer": "Yes. Since April 2025, EU and EEA citizens need an Electronic Travel Authorisation (ETA) before travelling to the UK for a short visit. Irish citizens do not.",
+    "how": "The ETA is applied for online or in the official UK ETA app, is linked to the passport and is valid for two years or until the passport expires. Check the current fee on GOV.UK.",
+    "object": "Short visit to the UK for EU and EEA citizens",
+    "title": "Do EU citizens need an ETA to visit the UK?",
+    "description": "Yes. Since April 2025, EU and EEA citizens need an Electronic Travel Authorisation (ETA) before travelling to the UK for a short visit. Irish citizens…"
+   },
+   "sv": {
+    "question": "Behöver EU-medborgare ETA för att besöka Storbritannien?",
+    "answer": "Ja. Sedan april 2025 behöver medborgare i EU och EES ett elektroniskt resetillstånd (ETA) före en kortare resa till Storbritannien. Irländska medborgare behöver det inte.",
+    "how": "ETA söks på nätet eller i den officiella appen UK ETA, kopplas till passet och gäller i två år eller tills passet går ut. Kontrollera aktuell avgift på GOV.UK.",
+    "object": "Kortare besök i Storbritannien för medborgare i EU och EES",
+    "title": "Behöver EU-medborgare ETA för att besöka Storbritannien?",
+    "description": "Ja. Sedan april 2025 behöver medborgare i EU och EES ett elektroniskt resetillstånd (ETA) före en kortare resa till Storbritannien. Irländska…"
+   },
+   "no": {
+    "question": "Trenger EU-borgere ETA for å besøke Storbritannia?",
+    "answer": "Ja. Siden april 2025 trenger borgere i EU og EØS en elektronisk reisetillatelse (ETA) før en kortere reise til Storbritannia. Irske borgere trenger det ikke.",
+    "how": "ETA søkes på nett eller i den offisielle appen UK ETA, knyttes til passet og gjelder i to år eller til passet går ut. Sjekk gjeldende gebyr på GOV.UK.",
+    "object": "Kortere besøk i Storbritannia for borgere i EU og EØS",
+    "title": "Trenger EU-borgere ETA for å besøke Storbritannia?",
+    "description": "Ja. Siden april 2025 trenger borgere i EU og EØS en elektronisk reisetillatelse (ETA) før en kortere reise til Storbritannia. Irske borgere trenger det…"
+   }
+  },
+  "url": "https://exploreworldai.com/resenar/uk-eta",
+  "source_detail": {
+   "name": {
+    "en": "UK Immigration Rules, Appendix Electronic Travel Authorisation",
+    "sv": "Storbritanniens immigrationsregler, bilagan om ETA",
+    "no": "Storbritannias immigrasjonsregler, vedlegget om ETA"
+   },
+   "url": "https://www.gov.uk/guidance/immigration-rules/immigration-rules-appendix-electronic-travel-authorisation",
+   "authority": {
+    "en": "UK Home Office, GOV.UK",
+    "sv": "Storbritanniens inrikesdepartement, GOV.UK",
+    "no": "Storbritannias innenriksdepartement, GOV.UK"
+   },
+   "authorityUrl": "https://www.gov.uk/guidance/apply-for-an-electronic-travel-authorisation-eta"
+  },
+  "reviewed": "2026-10-02"
+ }
+]
