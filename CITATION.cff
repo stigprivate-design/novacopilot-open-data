@@ -1,0 +1,9 @@
+cff-version: 1.2.0
+title: "NovaCopilot open data"
+message: "If you use this data, please cite it as below."
+type: dataset
+authors:
+  - name: "NovaCopilot (ExploreWorldAI), Valkiv Ventures AB"
+url: "https://exploreworldai.com"
+repository-code: "https://github.com/stigprivate-design/novacopilot-open-data"
+date-released: "2026-10-02"
